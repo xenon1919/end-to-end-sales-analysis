@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,CustomerSegment,ProductCategory,ProductName,UnitPrice,Quantity,Discount,Region,PaymentMode,Revenue
+100001,2023-01-01,1102,Consumer,Furniture,Jeans,14066.28,7.0,0.2,West,Card,78771.17
+100002,2023-01-02,1179,Home Office,Furniture,Chair,26609.405,8.0,0.24,South,Cash,40456.99
+100003,2023-01-03,1092,Corporate,Furniture,T-Shirt,33870.19,8.0,0.27,West,Card,197801.91
+100004,2023-01-04,1014,Consumer,Clothing,Table,47210.32,5.0,0.24,East,UPI,251158.9
+100005,2023-01-05,1106,Consumer,Clothing,Table,13594.61,5.0,0.01,East,Cash,67293.32
+100006,2023-01-06,1071,Corporate,Clothing,Table,26609.405,1.0,0.22,North,UPI,18622.7
+100007,2023-01-07,1188,Corporate,Clothing,Mobile,31790.12,9.0,0.06,West,UPI,268944.42
+100008,2023-01-08,1020,Corporate,Clothing,Laptop,49973.42,7.0,0.04,North,Card,335821.38
+100009,2023-01-09,1102,Home Office,Furniture,Table,5419.44,2.0,0.19,South,Cash,8779.49
+100010,2023-01-10,1121,Home Office,Furniture,Chair,25028.83,6.0,0.1,North,UPI,135155.68
+100011,2023-01-11,1074,Consumer,Furniture,Table,19378.98,2.0,0.02,South,Card,37982.8
+100012,2023-01-12,1087,Corporate,Furniture,Mobile,43317.84,1.0,0.04,East,Card,41585.13
+100013,2023-01-13,1116,Consumer,Clothing,Jeans,23903.19,7.0,0.0,East,Card,167322.33
+100014,2023-01-14,1099,Consumer,Clothing,Chair,5726.68,2.0,0.27,West,UPI,8360.95
+100015,2023-01-15,1103,Consumer,Clothing,Mobile,31794.32,2.0,0.01,South,Card,62952.75
+100016,2023-01-16,1151,Consumer,Electronics,Jeans,38584.87,5.0,0.06,East,Cash,181348.89
+100017,2023-01-17,1130,Corporate,Furniture,Chair,343.49,5.0,0.12,West,Cash,1511.36
+100018,2023-01-18,1149,Consumer,Furniture,T-Shirt,42976.04,7.0,0.11,West,UPI,267740.73
+100019,2023-01-19,1052,Corporate,Clothing,Laptop,9463.95,1.0,0.27,North,Cash,6908.68
+100020,2023-01-20,1001,Corporate,Furniture,Laptop,27693.05,8.0,0.01,West,Card,219328.96
+100021,2023-01-21,1087,Home Office,Furniture,Mobile,20906.72,5.0,0.15,East,UPI,53312.14
+100022,2023-01-22,1157,Corporate,Clothing,Jeans,36038.76,4.0,0.2,North,Card,115324.03
+100023,2023-01-23,1037,Home Office,Electronics,Laptop,18683.85,9.0,0.28,South,UPI,121071.35
+100024,2023-01-24,1129,Corporate,Electronics,Jeans,43514.21,4.0,0.19,South,UPI,140986.04
+100025,2023-01-25,1191,Corporate,Electronics,Jeans,36578.72,5.0,0.24,East,Card,138999.14
+100026,2023-01-26,1187,Corporate,Clothing,Mobile,32456.12,7.0,0.03,East,Cash,220377.05
+100027,2023-01-27,1020,Home Office,Furniture,Mobile,39852.78,4.0,0.12,South,Cash,140281.79
+100028,2023-01-28,1160,Home Office,Clothing,Mobile,37750.35,1.0,0.11,North,UPI,33597.81
+100029,2023-01-29,1057,Consumer,Clothing,Laptop,1989.75,9.0,0.27,East,Card,13072.66
+100030,2023-01-30,1021,Home Office,Furniture,Mobile,19857.77,4.0,0.05,East,Card,75459.53
+100031,2023-01-31,1088,Home Office,Electronics,Laptop,46554.2,9.0,0.05,South,UPI,398038.41
+100032,2023-02-01,1048,Home Office,Electronics,Mobile,6461.07,6.0,0.1,South,Cash,34889.78
+100033,2023-02-02,1058,Home Office,Clothing,Table,36907.41,1.0,0.02,South,Card,36169.26
+100034,2023-02-03,1169,Consumer,Electronics,Jeans,48734.67,3.0,0.05,East,Cash,138893.81
+100035,2023-02-04,1187,Home Office,Clothing,Mobile,2799.49,2.0,0.29,West,Cash,3975.28
+100036,2023-02-05,1014,Corporate,Clothing,Chair,34173.26,9.0,0.13,East,UPI,267576.63
+100037,2023-02-06,1189,Corporate,Furniture,Jeans,23514.08,1.0,0.19,East,UPI,19046.4
+100038,2023-02-07,1189,Home Office,Furniture,Jeans,29042.93,9.0,0.22,South,Cash,203881.37
+100039,2023-02-08,1174,Home Office,Furniture,Mobile,4450.0,9.0,0.11,East,Card,35644.5
+100040,2023-02-09,1189,Corporate,Clothing,T-Shirt,2341.75,8.0,0.04,North,Card,17984.64
+100041,2023-02-10,1050,Corporate,Furniture,Mobile,33409.96,8.0,0.06,East,UPI,251242.9
+100042,2023-02-11,1107,Consumer,Electronics,Jeans,41200.81,1.0,0.09,East,Cash,37492.74
+100043,2023-02-12,1054,Corporate,Electronics,Chair,39144.36,8.0,0.19,East,Card,253655.45
+100044,2023-02-13,1063,Corporate,Clothing,Jeans,27281.53,3.0,0.12,East,Card,72023.24
+100045,2023-02-14,1130,Home Office,Clothing,Chair,5173.37,7.0,0.0,West,UPI,36213.59
+100046,2023-02-15,1050,Corporate,Furniture,Laptop,34464.61,1.0,0.16,East,Cash,28950.27
+100047,2023-02-16,1134,Consumer,Clothing,Table,12246.07,1.0,0.28,North,Card,8817.17
+100048,2023-02-17,1020,Corporate,Clothing,Jeans,45571.22,5.0,0.24,North,UPI,173170.64
+100049,2023-02-18,1072,Home Office,Electronics,Mobile,41945.61,5.0,0.25,East,Card,157296.04
+100050,2023-02-19,1166,Home Office,Electronics,Laptop,35527.27,8.0,0.24,South,Card,216005.8
+100051,2023-02-20,1017,Corporate,Furniture,Table,47452.53,7.0,0.1,West,Card,298950.94
+100052,2023-02-21,1131,Home Office,Clothing,Mobile,1764.81,8.0,0.23,East,UPI,10871.23
+100053,2023-02-22,1088,Consumer,Clothing,T-Shirt,36862.78,6.0,0.04,East,Cash,212329.61
+100054,2023-02-23,1059,Consumer,Electronics,Mobile,16646.09,6.0,0.2,East,UPI,79901.23
+100055,2023-02-24,1013,Corporate,Clothing,Chair,45322.08,2.0,0.19,South,Cash,73421.77
+100056,2023-02-25,1008,Corporate,Electronics,Chair,13480.42,6.0,0.01,South,Card,80073.69
+100057,2023-02-26,1089,Corporate,Furniture,T-Shirt,36297.85,5.0,0.24,South,Cash,137931.83
+100058,2023-02-27,1052,Home Office,Electronics,Laptop,43906.82,3.0,0.27,West,Card,96155.94
+100059,2023-02-28,1129,Consumer,Clothing,Table,2274.51,6.0,0.08,North,Card,12555.3
+100060,2023-03-01,1083,Consumer,Furniture,Mobile,20002.85,8.0,0.24,South,UPI,121617.33
+100061,2023-03-02,1091,Home Office,Electronics,Chair,38162.99,9.0,0.02,South,Card,336597.57
+100062,2023-03-03,1110,Consumer,Electronics,Laptop,22854.96,1.0,0.18,North,UPI,18741.07
+100063,2023-03-04,1187,Corporate,Furniture,T-Shirt,13509.18,3.0,0.15,North,Cash,34448.41
+100064,2023-03-05,1198,Corporate,Furniture,Jeans,11146.31,3.0,0.16,South,Cash,28088.7
+100065,2023-03-06,1171,Corporate,Electronics,Chair,6749.61,8.0,0.28,South,Card,38877.75
+100066,2023-03-07,1007,Consumer,Clothing,T-Shirt,42885.05,1.0,0.26,West,UPI,31734.94
+100067,2023-03-08,1174,Corporate,Electronics,Mobile,28852.7,5.0,0.24,South,Card,109640.26
+100068,2023-03-09,1034,Home Office,Furniture,Table,4003.97,3.0,0.08,North,UPI,11050.96
+100069,2023-03-10,1080,Home Office,Electronics,Chair,19252.5,2.0,0.27,South,UPI,28108.65
+100070,2023-03-11,1163,Consumer,Furniture,Chair,18513.14,8.0,0.03,South,UPI,143661.97
+100071,2023-03-12,1049,Home Office,Furniture,Mobile,9250.61,3.0,0.26,South,Cash,20536.35
+100072,2023-03-13,1103,Home Office,Clothing,Jeans,21888.28,7.0,0.1,West,UPI,137896.16
+100073,2023-03-14,1131,Consumer,Furniture,Laptop,16738.55,1.0,0.02,West,Cash,16403.78
+100074,2023-03-15,1001,Corporate,Furniture,Table,17221.82,6.0,0.2,South,UPI,82664.74
+100075,2023-03-16,1133,Corporate,Clothing,Chair,37003.52,3.0,0.07,North,Cash,103239.82
+100076,2023-03-17,1053,Corporate,Furniture,Table,11318.52,8.0,0.07,North,Cash,84209.79
+100077,2023-03-18,1105,Consumer,Clothing,Chair,32164.63,6.0,0.09,East,Cash,175618.88
+100078,2023-03-19,1003,Home Office,Clothing,Table,28618.35,2.0,0.02,South,Card,56091.97
+100079,2023-03-20,1053,Corporate,Furniture,T-Shirt,28491.01,6.0,0.05,West,UPI,162398.76
+100080,2023-03-21,1190,Corporate,Furniture,Chair,33217.77,7.0,0.0,North,Card,232524.39
+100081,2023-03-22,1145,Consumer,Electronics,Table,27509.43,5.0,0.13,East,UPI,119666.02
+100082,2023-03-23,1043,Corporate,Clothing,Laptop,26609.405,3.0,0.03,South,UPI,128001.88
+100083,2023-03-24,1161,Consumer,Electronics,T-Shirt,33843.89,4.0,0.2,North,Card,108300.45
+100084,2023-03-25,1189,Home Office,Furniture,T-Shirt,27438.77,4.0,0.07,South,Cash,102072.22
+100085,2023-03-26,1013,Consumer,Electronics,Laptop,41522.2,6.0,0.28,South,UPI,179375.9
+100086,2023-03-27,1094,Consumer,Clothing,Table,30386.1,1.0,0.26,North,Cash,22485.71
+100087,2023-03-28,1047,Consumer,Electronics,Mobile,26609.405,4.0,0.09,North,Card,53504.29
+100088,2023-03-29,1014,Consumer,Clothing,Laptop,10513.33,4.0,0.23,North,Cash,32381.06
+100089,2023-03-30,1199,Home Office,Furniture,Table,7785.92,1.0,0.24,South,UPI,5917.3
+100090,2023-03-31,1189,Home Office,Furniture,Laptop,44992.87,9.0,0.3,South,UPI,283455.08
+100091,2023-04-01,1039,Corporate,Clothing,Laptop,35564.74,4.0,0.18,East,UPI,116652.35
+100092,2023-04-02,1081,Home Office,Furniture,Chair,46881.45,7.0,0.02,West,Card,321606.75
+100093,2023-04-03,1110,Home Office,Furniture,Table,30243.93,3.0,0.19,South,UPI,73492.75
+100094,2023-04-04,1052,Corporate,Furniture,Mobile,23775.36,3.0,0.19,West,Card,57774.12
+100095,2023-04-05,1023,Home Office,Furniture,Chair,3173.88,8.0,0.19,North,Cash,20566.74
+100096,2023-04-06,1153,Consumer,Clothing,Laptop,33647.79,8.0,0.09,South,UPI,244955.91
+100097,2023-04-07,1187,Consumer,Electronics,Jeans,29194.0,1.0,0.26,East,UPI,21603.56
+100098,2023-04-08,1123,Corporate,Electronics,Laptop,49512.4,2.0,0.29,East,UPI,70307.61
+100099,2023-04-09,1040,Corporate,Furniture,Laptop,12110.11,8.0,0.07,West,Cash,90099.22
+100100,2023-04-10,1156,Corporate,Electronics,Table,26630.72,1.0,0.03,North,UPI,25831.8
+100101,2023-04-11,1014,Consumer,Electronics,Table,32617.68,8.0,0.06,West,Card,245284.95
+100102,2023-04-12,1044,Home Office,Furniture,Chair,32300.64,8.0,0.25,North,Cash,193803.84
+100103,2023-04-13,1064,Consumer,Furniture,Mobile,28152.42,2.0,0.2,East,Cash,45043.87
+100104,2023-04-14,1088,Corporate,Electronics,Chair,38891.01,4.0,0.19,West,Cash,126006.87
+100105,2023-04-15,1070,Home Office,Clothing,T-Shirt,10408.06,6.0,0.12,East,Cash,54954.56
+100106,2023-04-16,1008,Home Office,Furniture,Laptop,36336.23,9.0,0.17,East,Cash,271431.64
+100107,2023-04-17,1087,Consumer,Clothing,Jeans,31062.78,8.0,0.09,North,Card,226137.04
+100108,2023-04-18,1128,Corporate,Electronics,Laptop,44824.54,8.0,0.14,West,Cash,308392.84
+100109,2023-04-19,1135,Consumer,Furniture,Laptop,42390.28,7.0,0.24,West,UPI,225516.29
+100110,2023-04-20,1062,Home Office,Clothing,Chair,15894.32,9.0,0.29,East,Cash,101564.7
+100111,2023-04-21,1138,Consumer,Furniture,Jeans,13956.62,2.0,0.28,East,Cash,20097.53
+100112,2023-04-22,1080,Consumer,Electronics,Jeans,49086.34,3.0,0.28,South,Cash,106026.49
+100113,2023-04-23,1135,Corporate,Clothing,Jeans,26457.81,8.0,0.12,South,Cash,186262.98
+100114,2023-04-24,1162,Corporate,Electronics,Chair,45339.76,6.0,0.14,South,Cash,233953.16
+100115,2023-04-25,1162,Home Office,Electronics,Laptop,8361.27,9.0,0.21,East,Card,59448.63
+100116,2023-04-26,1032,Consumer,Furniture,Chair,32212.38,4.0,0.28,South,Card,92771.65
+100117,2023-04-27,1122,Consumer,Clothing,Table,40531.04,5.0,0.04,South,Cash,311278.39
+100118,2023-04-28,1004,Consumer,Electronics,Table,47380.28,3.0,0.09,South,Card,129348.16
+100119,2023-04-29,1040,Home Office,Electronics,Chair,16999.54,3.0,0.04,South,UPI,48958.68
+100120,2023-04-30,1027,Home Office,Clothing,Jeans,36304.06,8.0,0.18,East,Cash,238154.63
+100121,2023-05-01,1134,Corporate,Electronics,Laptop,27032.89,5.0,0.09,South,UPI,122999.65
+100122,2023-05-02,1071,Corporate,Electronics,Chair,3219.32,3.0,0.1,South,UPI,8692.16
+100123,2023-05-03,1011,Corporate,Clothing,Chair,34561.99,1.0,0.02,North,Cash,33870.75
+100124,2023-05-04,1161,Consumer,Clothing,Chair,34566.81,3.0,0.1,East,UPI,93330.39
+100125,2023-05-05,1032,Consumer,Clothing,T-Shirt,46544.22,9.0,0.26,West,UPI,309984.51
+100126,2023-05-06,1047,Corporate,Clothing,Table,24966.16,5.0,0.07,West,UPI,116092.64
+100127,2023-05-07,1150,Consumer,Furniture,Jeans,11666.5,2.0,0.21,North,Cash,18433.07
+100128,2023-05-08,1061,Corporate,Clothing,Mobile,2419.28,7.0,0.19,North,Cash,13717.32
+100129,2023-05-09,1036,Home Office,Furniture,Jeans,20898.98,2.0,0.26,East,UPI,30930.49
+100130,2023-05-10,1098,Corporate,Furniture,Mobile,15235.45,4.0,0.04,West,Cash,58504.13
+100131,2023-05-11,1171,Home Office,Furniture,T-Shirt,38102.2,7.0,0.29,South,Cash,189367.93
+100132,2023-05-12,1103,Consumer,Electronics,Chair,17842.53,4.0,0.17,North,UPI,59237.2
+100133,2023-05-13,1034,Corporate,Furniture,T-Shirt,47463.75,7.0,0.3,West,Cash,232572.37
+100134,2023-05-14,1192,Consumer,Furniture,T-Shirt,48123.05,7.0,0.27,East,Card,245908.79
+100135,2023-05-15,1100,Home Office,Electronics,Laptop,31121.25,1.0,0.07,South,Cash,28942.76
+100136,2023-05-16,1174,Home Office,Electronics,Table,46447.28,6.0,0.02,East,Card,273110.01
+100137,2023-05-17,1130,Home Office,Electronics,Mobile,38090.55,9.0,0.08,North,UPI,315389.75
+100138,2023-05-18,1000,Consumer,Clothing,Chair,27433.61,2.0,0.16,West,Cash,46088.46
+100139,2023-05-19,1004,Consumer,Electronics,Mobile,9179.34,3.0,0.05,West,UPI,26161.12
+100140,2023-05-20,1141,Consumer,Electronics,Jeans,23038.18,5.0,0.05,West,UPI,109431.36
+100141,2023-05-21,1102,Consumer,Furniture,Mobile,28131.55,9.0,0.14,West,UPI,217738.2
+100142,2023-05-22,1026,Home Office,Electronics,Jeans,43225.29,4.0,0.01,South,UPI,171172.15
+100143,2023-05-23,1136,Home Office,Clothing,Table,24170.4,1.0,0.04,South,UPI,23203.58
+100144,2023-05-24,1014,Corporate,Electronics,Jeans,44904.2,4.0,0.12,East,Cash,158062.78
+100145,2023-05-25,1089,Corporate,Clothing,Mobile,33782.58,6.0,0.02,South,Card,198641.57
+100146,2023-05-26,1041,Consumer,Electronics,Mobile,7022.55,5.0,0.12,North,Cash,30899.22
+100147,2023-05-27,1123,Home Office,Electronics,Jeans,49750.07,1.0,0.14,North,Cash,42785.06
+100148,2023-05-28,1178,Home Office,Electronics,T-Shirt,26456.19,4.0,0.14,West,Cash,91009.29
+100149,2023-05-29,1062,Home Office,Electronics,Table,19714.54,6.0,0.26,North,Cash,87532.56
+100150,2023-05-30,1095,Corporate,Clothing,Laptop,33023.87,4.0,0.16,East,Card,110960.2
+100151,2023-05-31,1051,Corporate,Clothing,Chair,5622.89,9.0,0.14,South,Cash,43521.17
+100152,2023-06-01,1095,Home Office,Furniture,Mobile,31899.62,5.0,0.12,South,UPI,140358.33
+100153,2023-06-02,1131,Home Office,Clothing,Chair,25012.15,8.0,0.25,South,Cash,150072.9
+100154,2023-06-03,1150,Home Office,Electronics,Laptop,20452.37,9.0,0.27,North,Cash,134372.07
+100155,2023-06-04,1142,Corporate,Furniture,Chair,47660.4,5.0,0.26,South,Card,176343.48
+100156,2023-06-05,1170,Home Office,Furniture,Laptop,26222.48,6.0,0.2,West,Card,125867.9
+100157,2023-06-06,1028,Home Office,Furniture,Jeans,11112.05,1.0,0.04,West,UPI,10667.57
+100158,2023-06-07,1035,Consumer,Electronics,T-Shirt,23056.38,7.0,0.08,West,Cash,148483.09
+100159,2023-06-08,1012,Consumer,Clothing,Mobile,45985.49,4.0,0.01,North,Cash,182102.54
+100160,2023-06-09,1159,Corporate,Electronics,Laptop,8969.55,5.0,0.28,South,Cash,12916.15
+100161,2023-06-10,1070,Home Office,Furniture,Chair,10855.06,5.0,0.2,North,UPI,43420.24
+100162,2023-06-11,1186,Home Office,Electronics,Mobile,848.87,3.0,0.22,South,Card,1986.36
+100163,2023-06-12,1085,Consumer,Electronics,T-Shirt,906.66,6.0,0.09,East,UPI,4950.36
+100164,2023-06-13,1027,Corporate,Clothing,Jeans,41503.7,8.0,0.25,East,Cash,249022.2
+100165,2023-06-14,1065,Consumer,Clothing,Mobile,36659.71,7.0,0.08,North,Card,236088.53
+100166,2023-06-15,1169,Consumer,Furniture,Laptop,17881.04,3.0,0.0,West,Card,53643.12
+100167,2023-06-16,1044,Consumer,Electronics,T-Shirt,34975.9,8.0,0.11,North,UPI,249028.41
+100168,2023-06-17,1061,Consumer,Electronics,Chair,19881.26,2.0,0.17,West,Card,33002.89
+100169,2023-06-18,1184,Home Office,Clothing,T-Shirt,26609.405,9.0,0.14,South,Card,368843.97
+100170,2023-06-19,1133,Home Office,Electronics,T-Shirt,48359.22,4.0,0.26,West,Cash,143143.29
+100171,2023-06-20,1027,Consumer,Electronics,Table,19761.13,1.0,0.03,West,Cash,19168.3
+100172,2023-06-21,1027,Corporate,Electronics,T-Shirt,42740.25,8.0,0.17,South,Card,283795.26
+100173,2023-06-22,1107,Corporate,Clothing,T-Shirt,38699.83,7.0,0.15,East,Card,230263.99
+100174,2023-06-23,1043,Corporate,Furniture,Mobile,15638.0,5.0,0.08,South,UPI,71934.8
+100175,2023-06-24,1083,Corporate,Furniture,Chair,11755.58,5.0,0.25,North,UPI,44083.42
+100176,2023-06-25,1029,Consumer,Electronics,Mobile,23020.09,7.0,0.23,North,Card,124078.29
+100177,2023-06-26,1189,Home Office,Furniture,Mobile,39111.17,5.0,0.22,North,Cash,152533.56
+100178,2023-06-27,1074,Corporate,Clothing,Laptop,48016.36,8.0,0.26,North,Card,284256.85
+100179,2023-06-28,1127,Consumer,Clothing,Mobile,38226.24,6.0,0.22,North,Card,178898.8
+100180,2023-06-29,1091,Corporate,Furniture,Table,42789.31,5.0,0.07,East,Cash,198970.29
+100181,2023-06-30,1189,Corporate,Furniture,Table,30232.6,9.0,0.21,East,Cash,214953.79
+100182,2023-07-01,1128,Consumer,Electronics,Laptop,41803.31,2.0,0.09,West,UPI,76082.02
+100183,2023-07-02,1120,Home Office,Furniture,Jeans,39264.16,1.0,0.07,North,UPI,36515.67
+100184,2023-07-03,1026,Home Office,Electronics,Chair,18973.88,8.0,0.02,South,UPI,148755.22
+100185,2023-07-04,1189,Consumer,Electronics,Chair,27689.12,3.0,0.22,North,UPI,64792.54
+100186,2023-07-05,1120,Home Office,Clothing,Mobile,40276.71,7.0,0.21,East,Cash,222730.21
+100187,2023-07-06,1115,Consumer,Clothing,Mobile,2493.63,8.0,0.07,North,Card,18552.61
+100188,2023-07-07,1002,Consumer,Clothing,Jeans,40442.35,6.0,0.22,East,UPI,189270.2
+100189,2023-07-08,1102,Consumer,Clothing,Mobile,9058.83,9.0,0.28,West,UPI,58701.22
+100190,2023-07-09,1197,Home Office,Furniture,Chair,25831.24,7.0,0.03,West,Cash,175394.12
+100191,2023-07-10,1199,Consumer,Clothing,T-Shirt,40452.12,5.0,0.07,West,Cash,188102.36
+100192,2023-07-11,1154,Corporate,Furniture,Table,12840.29,8.0,0.23,East,Card,79096.19
+100193,2023-07-12,1136,Home Office,Clothing,T-Shirt,12441.21,2.0,0.08,North,Card,22891.83
+100194,2023-07-13,1061,Home Office,Furniture,T-Shirt,20257.67,7.0,0.19,North,Cash,114860.99
+100195,2023-07-14,1164,Home Office,Electronics,Chair,44753.21,4.0,0.02,South,UPI,175432.58
+100196,2023-07-15,1050,Home Office,Furniture,T-Shirt,222.05,9.0,0.14,East,UPI,1718.67
+100197,2023-07-16,1171,Corporate,Furniture,Jeans,45088.88,1.0,0.22,South,UPI,35169.33
+100198,2023-07-17,1151,Home Office,Clothing,Laptop,7859.59,7.0,0.21,West,Card,43463.53
+100199,2023-07-18,1058,Home Office,Furniture,Mobile,49506.3,6.0,0.24,North,UPI,225748.73
+100200,2023-07-19,1117,Consumer,Electronics,Laptop,47751.38,8.0,0.26,East,UPI,282688.17
+100201,2023-07-20,1159,Home Office,Electronics,Table,24834.82,5.0,0.23,South,Cash,95614.06
+100202,2023-07-21,1095,Corporate,Clothing,Mobile,25733.47,1.0,0.2,South,UPI,20586.78
+100203,2023-07-22,1179,Corporate,Electronics,T-Shirt,24181.16,1.0,0.01,South,Cash,23939.35
+100204,2023-07-23,1112,Corporate,Furniture,Table,31845.09,9.0,0.16,North,UPI,240748.88
+100205,2023-07-24,1061,Corporate,Electronics,Mobile,4717.94,6.0,0.01,North,Card,28024.56
+100206,2023-07-25,1185,Home Office,Clothing,Jeans,1824.37,5.0,0.24,North,UPI,6932.61
+100207,2023-07-26,1051,Home Office,Furniture,Jeans,3073.61,1.0,0.1,East,UPI,2766.25
+100208,2023-07-27,1011,Corporate,Clothing,Jeans,22329.39,6.0,0.17,North,Cash,111200.36
+100209,2023-07-28,1038,Corporate,Furniture,Jeans,13922.29,6.0,0.08,East,Cash,76851.04
+100210,2023-07-29,1129,Home Office,Electronics,T-Shirt,31177.57,3.0,0.23,South,Cash,72020.19
+100211,2023-07-30,1130,Corporate,Clothing,Laptop,49623.63,8.0,0.27,South,UPI,289802.0
+100212,2023-07-31,1112,Consumer,Clothing,Mobile,19438.89,1.0,0.12,West,UPI,17106.22
+100213,2023-08-01,1100,Corporate,Furniture,T-Shirt,28777.29,5.0,0.26,North,Card,21295.19
+100214,2023-08-02,1112,Corporate,Clothing,Jeans,20897.07,6.0,0.08,South,UPI,115351.83
+100215,2023-08-03,1183,Consumer,Furniture,Laptop,42394.13,1.0,0.16,North,Card,35611.07
+100216,2023-08-04,1080,Consumer,Furniture,Table,45131.37,6.0,0.26,East,Cash,200383.28
+100217,2023-08-05,1186,Home Office,Furniture,Table,43892.31,1.0,0.1,South,Cash,39503.08
+100218,2023-08-06,1112,Home Office,Furniture,Table,48723.74,6.0,0.29,North,Cash,207563.13
+100219,2023-08-07,1001,Consumer,Electronics,Jeans,1570.46,3.0,0.04,South,Card,4522.92
+100220,2023-08-08,1129,Consumer,Furniture,Table,42022.84,8.0,0.01,South,UPI,332820.89
+100221,2023-08-09,1053,Home Office,Clothing,Chair,37638.25,6.0,0.27,South,Cash,164855.54
+100222,2023-08-10,1086,Corporate,Electronics,Mobile,11588.98,1.0,0.02,South,UPI,11357.2
+100223,2023-08-11,1128,Consumer,Clothing,Mobile,47824.74,5.0,0.3,South,UPI,167386.59
+100224,2023-08-12,1146,Home Office,Electronics,Jeans,26609.405,8.0,0.29,South,Cash,43050.2
+100225,2023-08-13,1125,Corporate,Furniture,Chair,34041.59,3.0,0.04,South,Card,98039.78
+100226,2023-08-14,1129,Consumer,Electronics,T-Shirt,11399.53,6.0,0.16,East,UPI,57453.63
+100227,2023-08-15,1052,Corporate,Electronics,T-Shirt,21682.76,5.0,0.06,South,Cash,101908.97
+100228,2023-08-16,1171,Home Office,Clothing,Table,36014.16,6.0,0.13,West,UPI,187993.92
+100229,2023-08-17,1159,Consumer,Clothing,Laptop,28253.57,1.0,0.02,South,UPI,27688.5
+100230,2023-08-18,1197,Corporate,Furniture,T-Shirt,21489.59,7.0,0.07,North,UPI,139897.23
+100231,2023-08-19,1159,Consumer,Electronics,Laptop,16451.65,9.0,0.11,West,UPI,131777.72
+100232,2023-08-20,1067,Corporate,Electronics,Mobile,42015.05,5.0,0.13,East,UPI,73106.19
+100233,2023-08-21,1182,Home Office,Electronics,Laptop,7361.95,5.0,0.29,West,Card,26134.92
+100234,2023-08-22,1183,Home Office,Furniture,Mobile,21619.12,4.0,0.24,West,Card,65722.12
+100235,2023-08-23,1122,Consumer,Furniture,Chair,45207.13,6.0,0.22,West,Cash,211569.37
+100236,2023-08-24,1144,Corporate,Furniture,Chair,42323.31,6.0,0.16,North,Card,213309.48
+100237,2023-08-25,1037,Consumer,Furniture,Jeans,20166.9,2.0,0.25,North,Card,30250.35
+100238,2023-08-26,1023,Consumer,Furniture,Jeans,38202.8,2.0,0.1,North,Card,68765.04
+100239,2023-08-27,1068,Corporate,Clothing,Table,41193.41,4.0,0.21,East,UPI,130171.18
+100240,2023-08-28,1115,Corporate,Electronics,T-Shirt,44466.59,1.0,0.3,North,UPI,31126.61
+100241,2023-08-29,1097,Corporate,Electronics,Table,26609.405,9.0,0.09,North,Cash,223721.23
+100242,2023-08-30,1197,Home Office,Electronics,Mobile,10382.15,7.0,0.2,West,Cash,58140.04
+100243,2023-08-31,1138,Consumer,Electronics,Table,12914.39,7.0,0.25,North,Cash,67800.55
+100244,2023-09-01,1143,Consumer,Electronics,Laptop,14925.59,3.0,0.27,South,UPI,32687.04
+100245,2023-09-02,1096,Home Office,Electronics,Mobile,29771.36,3.0,0.22,North,Card,69664.98
+100246,2023-09-03,1123,Corporate,Electronics,Jeans,1833.92,1.0,0.09,East,Card,1668.87
+100247,2023-09-04,1186,Home Office,Electronics,Chair,31874.91,5.0,0.1,East,UPI,86062.26
+100248,2023-09-05,1069,Home Office,Clothing,Jeans,18344.84,3.0,0.01,South,Cash,54484.17
+100249,2023-09-06,1092,Home Office,Electronics,T-Shirt,14903.04,4.0,0.23,East,Cash,45901.36
+100250,2023-09-07,1002,Consumer,Clothing,Mobile,43998.93,4.0,0.01,East,Cash,174235.76
+100251,2023-09-08,1147,Home Office,Furniture,Mobile,23108.12,3.0,0.26,West,UPI,51300.03
+100252,2023-09-09,1186,Consumer,Electronics,Laptop,4933.64,8.0,0.04,South,Cash,37890.36
+100253,2023-09-10,1163,Consumer,Furniture,T-Shirt,41371.99,8.0,0.05,West,Cash,314427.12
+100254,2023-09-11,1146,Consumer,Furniture,Chair,2572.53,1.0,0.14,West,UPI,2212.38
+100255,2023-09-12,1089,Corporate,Furniture,Mobile,36392.11,7.0,0.22,North,Card,198700.92
+100256,2023-09-13,1194,Consumer,Clothing,Mobile,38740.53,2.0,0.04,South,UPI,74381.82
+100257,2023-09-14,1146,Consumer,Furniture,Laptop,17759.61,1.0,0.13,North,UPI,15450.86
+100258,2023-09-15,1147,Corporate,Furniture,Table,41274.44,3.0,0.14,North,UPI,106488.06
+100259,2023-09-16,1095,Consumer,Furniture,Chair,25879.84,4.0,0.06,South,UPI,97308.2
+100260,2023-09-17,1198,Home Office,Electronics,Jeans,23272.02,6.0,0.03,East,Card,135443.16
+100261,2023-09-18,1051,Home Office,Electronics,T-Shirt,2461.08,5.0,0.25,South,Cash,9229.05
+100262,2023-09-19,1160,Consumer,Clothing,Mobile,14643.45,4.0,0.15,East,UPI,49787.73
+100263,2023-09-20,1167,Corporate,Clothing,Mobile,26609.405,8.0,0.0,West,Card,372514.4
+100264,2023-09-21,1127,Home Office,Electronics,Jeans,26609.405,4.0,0.24,West,Cash,59927.0
+100265,2023-09-22,1038,Corporate,Clothing,Chair,26609.405,2.0,0.29,West,Cash,38944.48
+100266,2023-09-23,1081,Corporate,Electronics,Table,26694.68,3.0,0.18,West,Cash,65668.91
+100267,2023-09-24,1103,Home Office,Furniture,Mobile,29603.47,6.0,0.15,West,UPI,150977.7
+100268,2023-09-25,1128,Corporate,Furniture,Chair,3254.28,8.0,0.26,West,UPI,19265.34
+100269,2023-09-26,1010,Home Office,Clothing,Jeans,18236.38,8.0,0.29,East,Cash,103582.64
+100270,2023-09-27,1184,Corporate,Electronics,Laptop,36211.79,9.0,0.23,North,Cash,250947.7
+100271,2023-09-28,1177,Home Office,Electronics,Table,10187.9,7.0,0.13,East,Cash,62044.31
+100272,2023-09-29,1150,Consumer,Clothing,T-Shirt,10338.2,2.0,0.18,South,Cash,16954.65
+100273,2023-09-30,1158,Home Office,Electronics,Mobile,702.51,8.0,0.21,East,Cash,4439.86
+100274,2023-10-01,1041,Home Office,Furniture,Chair,21986.6,7.0,0.06,West,Cash,144671.83
+100275,2023-10-02,1098,Home Office,Clothing,Laptop,44160.17,8.0,0.13,East,Card,307354.78
+100276,2023-10-03,1006,Home Office,Clothing,T-Shirt,2784.67,3.0,0.25,North,Cash,6265.51
+100277,2023-10-04,1143,Corporate,Electronics,Chair,9717.71,7.0,0.2,South,UPI,54419.18
+100278,2023-10-05,1089,Consumer,Clothing,Chair,15642.21,9.0,0.12,East,UPI,123886.3
+100279,2023-10-06,1111,Home Office,Electronics,T-Shirt,36639.89,3.0,0.2,North,UPI,87935.74
+100280,2023-10-07,1059,Corporate,Electronics,Laptop,32103.65,6.0,0.04,East,Cash,184917.02
+100281,2023-10-08,1112,Consumer,Electronics,Jeans,20914.01,2.0,0.12,South,UPI,36808.66
+100282,2023-10-09,1001,Consumer,Electronics,Laptop,38001.63,2.0,0.24,East,Card,57762.48
+100283,2023-10-10,1128,Consumer,Electronics,Table,30559.62,5.0,0.07,West,Cash,142102.23
+100284,2023-10-11,1047,Consumer,Clothing,Mobile,44822.83,5.0,0.06,East,UPI,210667.3
+100285,2023-10-12,1139,Home Office,Furniture,T-Shirt,40937.73,7.0,0.29,North,Card,203460.52
+100286,2023-10-13,1196,Home Office,Furniture,Jeans,12790.12,2.0,0.06,East,Card,24045.43
+100287,2023-10-14,1036,Corporate,Clothing,T-Shirt,13717.64,7.0,0.08,North,UPI,88341.6
+100288,2023-10-15,1159,Corporate,Clothing,T-Shirt,6442.75,5.0,0.29,South,Card,22871.76
+100289,2023-10-16,1008,Corporate,Furniture,Laptop,16980.84,6.0,0.22,East,UPI,79470.33
+100290,2023-10-17,1098,Consumer,Furniture,Mobile,49977.29,8.0,0.21,South,Card,315856.47
+100291,2023-10-18,1146,Consumer,Furniture,Table,20406.41,4.0,0.26,South,Cash,60402.97
+100292,2023-10-19,1047,Home Office,Furniture,Chair,11180.32,7.0,0.03,East,Cash,75914.37
+100293,2023-10-20,1130,Consumer,Furniture,Chair,38171.65,6.0,0.21,North,Cash,180933.62
+100294,2023-10-21,1147,Consumer,Electronics,T-Shirt,27215.06,5.0,0.15,South,Cash,46265.6
+100295,2023-10-22,1151,Consumer,Clothing,Mobile,7650.15,8.0,0.25,South,Cash,45900.9
+100296,2023-10-23,1053,Corporate,Electronics,Jeans,19158.35,9.0,0.15,East,UPI,146561.38
+100297,2023-10-24,1119,Corporate,Furniture,Laptop,20840.59,5.0,0.19,East,Cash,84404.39
+100298,2023-10-25,1160,Home Office,Furniture,Mobile,37740.72,4.0,0.14,East,Cash,129828.08
+100299,2023-10-26,1151,Consumer,Furniture,Mobile,1229.43,6.0,0.14,East,Cash,6343.86
+100300,2023-10-27,1115,Consumer,Electronics,Laptop,13597.18,8.0,0.23,East,Cash,83758.63
+100301,2023-10-28,1074,Home Office,Electronics,T-Shirt,25976.3,3.0,0.19,West,Card,63122.41
+100302,2023-10-29,1112,Consumer,Furniture,Mobile,13588.57,1.0,0.19,East,Cash,11006.74
+100303,2023-10-30,1199,Consumer,Electronics,Chair,31496.02,4.0,0.14,North,Cash,108346.31
+100304,2023-10-31,1163,Corporate,Electronics,Laptop,24197.0,4.0,0.16,South,UPI,81301.92
+100305,2023-11-01,1165,Home Office,Furniture,Jeans,26609.405,1.0,0.22,North,Card,14206.27
+100306,2023-11-02,1103,Home Office,Electronics,Table,47470.59,9.0,0.25,North,UPI,320426.48
+100307,2023-11-03,1083,Home Office,Clothing,T-Shirt,31681.54,3.0,0.21,West,Cash,75085.25
+100308,2023-11-04,1111,Home Office,Clothing,Laptop,6671.08,5.0,0.28,East,UPI,24015.89
+100309,2023-11-05,1098,Corporate,Clothing,Table,28092.57,6.0,0.25,South,UPI,126416.56
+100310,2023-11-06,1152,Corporate,Clothing,Table,39080.45,8.0,0.17,North,Cash,259494.19
+100311,2023-11-07,1092,Consumer,Furniture,Jeans,35482.79,6.0,0.2,East,Card,170317.39
+100312,2023-11-08,1145,Consumer,Furniture,Mobile,8770.04,3.0,0.28,South,Card,18943.29
+100313,2023-11-09,1127,Consumer,Furniture,Jeans,48626.52,6.0,0.19,West,UPI,236324.89
+100314,2023-11-10,1109,Consumer,Clothing,Mobile,22550.92,1.0,0.25,West,Cash,16913.19
+100315,2023-11-11,1081,Corporate,Clothing,Mobile,26609.405,4.0,0.21,West,UPI,25657.46
+100316,2023-11-12,1193,Home Office,Electronics,Laptop,26609.405,6.0,0.17,South,UPI,45685.27
+100317,2023-11-13,1053,Corporate,Electronics,Laptop,5092.1,7.0,0.07,North,UPI,33149.57
+100318,2023-11-14,1162,Consumer,Clothing,T-Shirt,40215.2,3.0,0.13,West,Cash,104961.67
+100319,2023-11-15,1188,Corporate,Clothing,Mobile,6277.12,9.0,0.29,West,Cash,40110.8
+100320,2023-11-16,1168,Home Office,Clothing,Table,6431.24,7.0,0.2,West,Card,36014.94
+100321,2023-11-17,1160,Home Office,Clothing,Chair,42553.49,1.0,0.17,North,Cash,35319.4
+100322,2023-11-18,1067,Corporate,Electronics,T-Shirt,17361.28,2.0,0.28,South,UPI,25000.24
+100323,2023-11-19,1032,Corporate,Clothing,Laptop,1736.72,1.0,0.18,West,UPI,1424.11
+100324,2023-11-20,1141,Corporate,Electronics,Jeans,2784.39,9.0,0.16,West,Card,21049.99
+100325,2023-11-21,1020,Consumer,Clothing,T-Shirt,7280.09,9.0,0.23,East,Cash,50451.02
+100326,2023-11-22,1047,Corporate,Clothing,T-Shirt,10826.99,7.0,0.21,West,UPI,59873.25
+100327,2023-11-23,1147,Corporate,Clothing,T-Shirt,33324.28,3.0,0.06,South,Card,93974.47
+100328,2023-11-24,1127,Corporate,Electronics,T-Shirt,26609.405,5.0,0.14,South,Card,34549.85
+100329,2023-11-25,1135,Home Office,Electronics,Chair,6119.94,4.0,0.14,West,UPI,21052.59
+100330,2023-11-26,1134,Home Office,Furniture,Jeans,38283.01,7.0,0.11,North,UPI,238503.15
+100331,2023-11-27,1194,Consumer,Clothing,Jeans,26609.405,9.0,0.16,East,Cash,254156.24
+100332,2023-11-28,1144,Consumer,Furniture,Jeans,21879.15,2.0,0.12,North,Card,38507.3
+100333,2023-11-29,1127,Home Office,Furniture,Mobile,27555.63,8.0,0.06,West,UPI,207218.34
+100334,2023-11-30,1032,Home Office,Electronics,Table,15736.8,9.0,0.12,South,Card,124635.46
+100335,2023-12-01,1175,Home Office,Electronics,Jeans,24228.52,9.0,0.02,East,Cash,213695.55
+100336,2023-12-02,1186,Corporate,Furniture,T-Shirt,25432.3,7.0,0.17,North,UPI,147761.66
+100337,2023-12-03,1114,Corporate,Clothing,T-Shirt,19484.42,9.0,0.26,North,Cash,129766.24
+100338,2023-12-04,1118,Home Office,Electronics,Jeans,45347.3,9.0,0.22,West,Card,318338.05
+100339,2023-12-05,1021,Corporate,Clothing,Jeans,999.88,3.0,0.11,East,Cash,2669.68
+100340,2023-12-06,1157,Corporate,Clothing,T-Shirt,39152.13,4.0,0.03,South,Cash,151910.26
+100341,2023-12-07,1037,Consumer,Furniture,Mobile,6394.26,2.0,0.06,West,Card,12021.21
+100342,2023-12-08,1108,Home Office,Furniture,Laptop,39917.86,3.0,0.16,East,Cash,100593.01
+100343,2023-12-09,1050,Home Office,Furniture,Laptop,30872.41,5.0,0.06,North,Card,145100.33
+100344,2023-12-10,1181,Corporate,Furniture,Jeans,42195.25,5.0,0.16,West,UPI,177220.05
+100345,2023-12-11,1007,Home Office,Electronics,Chair,5056.21,6.0,0.07,North,Card,28213.65
+100346,2023-12-12,1026,Consumer,Electronics,Jeans,28037.24,7.0,0.25,North,Card,147195.51
+100347,2023-12-13,1026,Consumer,Furniture,Jeans,25154.18,7.0,0.12,West,UPI,154949.75
+100348,2023-12-14,1020,Consumer,Electronics,Laptop,35368.42,1.0,0.07,West,Card,32892.63
+100349,2023-12-15,1029,Home Office,Furniture,T-Shirt,26807.67,2.0,0.24,West,UPI,40747.66
+100350,2023-12-16,1096,Home Office,Clothing,Jeans,27128.58,9.0,0.1,West,UPI,219741.5
+100351,2023-12-17,1027,Home Office,Clothing,T-Shirt,21593.88,2.0,0.03,West,Card,41892.13
+100352,2023-12-18,1110,Home Office,Clothing,T-Shirt,15579.95,6.0,0.17,North,Cash,77588.15
+100353,2023-12-19,1191,Home Office,Furniture,Chair,24216.77,1.0,0.17,South,Cash,20099.92
+100354,2023-12-20,1196,Consumer,Clothing,T-Shirt,6100.92,3.0,0.21,South,UPI,14459.18
+100355,2023-12-21,1060,Corporate,Electronics,Laptop,48083.36,2.0,0.07,West,Cash,89435.05
+100356,2023-12-22,1047,Consumer,Clothing,Mobile,35777.66,5.0,0.13,North,Cash,93379.69
+100357,2023-12-23,1146,Home Office,Clothing,Mobile,47632.86,5.0,0.08,South,Card,219111.16
+100358,2023-12-24,1003,Consumer,Clothing,Table,11491.02,6.0,0.02,South,UPI,67567.2
+100359,2023-12-25,1034,Home Office,Electronics,Jeans,43991.18,9.0,0.26,South,UPI,292981.26
+100360,2023-12-26,1191,Home Office,Furniture,Laptop,40477.74,4.0,0.22,North,Card,126290.55
+100361,2023-12-27,1048,Consumer,Electronics,T-Shirt,33922.19,7.0,0.09,West,Cash,216084.35
+100362,2023-12-28,1016,Home Office,Furniture,Mobile,31326.45,6.0,0.18,West,UPI,154126.13
+100363,2023-12-29,1171,Corporate,Furniture,Laptop,15964.17,2.0,0.06,West,Cash,30012.64
+100364,2023-12-30,1157,Home Office,Clothing,Mobile,40857.26,8.0,0.27,East,UPI,238606.4
+100365,2023-12-31,1045,Corporate,Furniture,T-Shirt,25175.47,7.0,0.03,East,UPI,170941.44
+100366,2024-01-01,1116,Corporate,Electronics,Mobile,26609.405,7.0,0.0,East,UPI,26112.8
+100367,2024-01-02,1005,Home Office,Electronics,Jeans,15780.59,8.0,0.15,North,UPI,107308.01
+100368,2024-01-03,1098,Consumer,Furniture,Jeans,46777.8,1.0,0.17,South,Cash,38825.57
+100369,2024-01-04,1123,Corporate,Clothing,Table,42563.88,1.0,0.17,South,Cash,35328.02
+100370,2024-01-05,1036,Consumer,Clothing,Table,49098.9,8.0,0.02,North,Cash,384935.38
+100371,2024-01-06,1023,Corporate,Electronics,Mobile,26609.405,4.0,0.09,North,Cash,114565.61
+100372,2024-01-07,1092,Home Office,Clothing,Laptop,12526.0,5.0,0.15,West,Card,53235.5
+100373,2024-01-08,1045,Home Office,Furniture,Jeans,8308.19,8.0,0.06,West,UPI,62477.59
+100374,2024-01-09,1180,Corporate,Furniture,Laptop,9508.34,5.0,0.26,East,UPI,35180.86
+100375,2024-01-10,1094,Home Office,Electronics,Laptop,1185.82,4.0,0.03,East,UPI,4600.98
+100376,2024-01-11,1098,Corporate,Furniture,Mobile,19655.97,6.0,0.15,North,Card,100245.45
+100377,2024-01-12,1187,Home Office,Electronics,Laptop,9733.1,5.0,0.21,East,Cash,38445.75
+100378,2024-01-13,1115,Consumer,Furniture,Jeans,20700.44,7.0,0.08,South,UPI,133310.83
+100379,2024-01-14,1190,Home Office,Electronics,T-Shirt,46762.72,7.0,0.19,North,Cash,265144.62
+100380,2024-01-15,1159,Consumer,Clothing,Table,21640.9,4.0,0.25,North,Cash,64922.7
+100381,2024-01-16,1160,Home Office,Furniture,T-Shirt,43923.63,5.0,0.06,South,Card,206441.06
+100382,2024-01-17,1066,Consumer,Furniture,Laptop,26609.405,3.0,0.28,West,Card,65564.94
+100383,2024-01-18,1127,Home Office,Electronics,T-Shirt,12507.15,4.0,0.17,West,Cash,41523.74
+100384,2024-01-19,1017,Consumer,Electronics,Jeans,17921.57,4.0,0.09,South,UPI,65234.51
+100385,2024-01-20,1024,Corporate,Furniture,Jeans,4379.19,3.0,0.13,South,UPI,11429.69
+100386,2024-01-21,1053,Corporate,Electronics,Laptop,16806.44,5.0,0.09,East,Card,76469.3
+100387,2024-01-22,1057,Consumer,Furniture,Mobile,33941.54,5.0,0.22,South,Card,132372.01
+100388,2024-01-23,1066,Home Office,Clothing,T-Shirt,3791.13,7.0,0.24,East,Card,20168.81
+100389,2024-01-24,1103,Consumer,Electronics,Mobile,10428.99,4.0,0.25,South,Card,31286.97
+100390,2024-01-25,1173,Home Office,Furniture,Mobile,19195.76,4.0,0.3,East,Card,53748.13
+100391,2024-01-26,1023,Corporate,Clothing,Chair,49106.07,9.0,0.24,South,Card,335885.52
+100392,2024-01-27,1113,Home Office,Clothing,Laptop,39286.12,6.0,0.18,East,Card,193287.71
+100393,2024-01-28,1031,Corporate,Furniture,Table,36727.64,4.0,0.1,East,UPI,132219.5
+100394,2024-01-29,1174,Home Office,Electronics,Jeans,5986.31,2.0,0.16,West,Card,10057.0
+100395,2024-01-30,1085,Home Office,Furniture,Jeans,39093.6,6.0,0.01,South,Card,232215.98
+100396,2024-01-31,1150,Home Office,Clothing,Laptop,39306.39,2.0,0.22,East,UPI,61317.97
+100397,2024-02-01,1193,Consumer,Furniture,Table,30134.91,5.0,0.13,North,UPI,131086.86
+100398,2024-02-02,1126,Consumer,Electronics,Jeans,49520.02,6.0,0.01,East,Cash,294148.92
+100399,2024-02-03,1154,Corporate,Clothing,Laptop,16397.64,4.0,0.02,East,Card,64278.75
+100400,2024-02-04,1129,Corporate,Furniture,Jeans,47075.37,3.0,0.12,North,Card,124278.98
+100401,2024-02-05,1016,Consumer,Electronics,Mobile,45753.61,7.0,0.18,South,Card,262625.72
+100402,2024-02-06,1103,Corporate,Clothing,T-Shirt,26609.405,2.0,0.14,West,Card,1327.39
+100403,2024-02-07,1160,Consumer,Electronics,T-Shirt,22615.8,6.0,0.19,West,Cash,109912.79
+100404,2024-02-08,1136,Home Office,Clothing,Jeans,48859.79,4.0,0.14,West,UPI,168077.68
+100405,2024-02-09,1042,Corporate,Furniture,Chair,5335.44,6.0,0.2,North,UPI,25610.11
+100406,2024-02-10,1175,Corporate,Electronics,Table,27479.68,4.0,0.07,East,Card,102224.41
+100407,2024-02-11,1038,Consumer,Clothing,Table,48952.08,4.0,0.03,South,Card,189934.07
+100408,2024-02-12,1169,Corporate,Electronics,Table,27863.67,4.0,0.18,East,Card,91392.84
+100409,2024-02-13,1025,Corporate,Electronics,Mobile,9652.8,9.0,0.15,West,Cash,73843.92
+100410,2024-02-14,1098,Home Office,Furniture,Table,29192.72,7.0,0.01,East,Cash,202305.55
+100411,2024-02-15,1049,Corporate,Electronics,T-Shirt,10381.14,3.0,0.11,North,UPI,27717.64
+100412,2024-02-16,1152,Home Office,Clothing,Mobile,26081.27,3.0,0.03,North,Card,75896.5
+100413,2024-02-17,1151,Consumer,Clothing,Laptop,3887.3,6.0,0.16,South,Card,19591.99
+100414,2024-02-18,1012,Corporate,Clothing,Table,30353.04,6.0,0.12,South,Card,160264.05
+100415,2024-02-19,1059,Home Office,Clothing,Table,25936.14,4.0,0.18,West,Card,85070.54
+100416,2024-02-20,1134,Consumer,Furniture,Laptop,37060.04,9.0,0.24,South,Cash,253490.67
+100417,2024-02-21,1056,Corporate,Electronics,Table,31608.88,4.0,0.09,East,UPI,115056.32
+100418,2024-02-22,1035,Consumer,Furniture,Laptop,27570.39,9.0,0.29,North,UPI,176174.79
+100419,2024-02-23,1172,Corporate,Electronics,Mobile,34550.99,4.0,0.16,North,Cash,116091.33
+100420,2024-02-24,1019,Consumer,Electronics,T-Shirt,7368.31,2.0,0.19,North,Card,11936.66
+100421,2024-02-25,1064,Consumer,Electronics,Laptop,29848.91,2.0,0.2,South,UPI,47758.26
+100422,2024-02-26,1007,Home Office,Furniture,Chair,8771.11,5.0,0.2,North,UPI,35084.44
+100423,2024-02-27,1143,Consumer,Electronics,Laptop,46291.01,4.0,0.15,North,Cash,157389.43
+100424,2024-02-28,1141,Corporate,Furniture,Table,3603.04,7.0,0.13,North,Card,21942.51
+100425,2024-02-29,1114,Corporate,Clothing,Mobile,21632.66,5.0,0.02,West,UPI,106000.03
+100426,2024-03-01,1142,Home Office,Clothing,Jeans,34850.71,6.0,0.01,West,Card,207013.22
+100427,2024-03-02,1091,Corporate,Electronics,Mobile,23009.51,4.0,0.11,South,UPI,81913.86
+100428,2024-03-03,1097,Corporate,Furniture,Jeans,4786.34,2.0,0.1,North,Cash,8615.41
+100429,2024-03-04,1065,Corporate,Clothing,Laptop,27758.28,9.0,0.12,South,Card,219845.58
+100430,2024-03-05,1031,Consumer,Furniture,T-Shirt,32153.27,7.0,0.04,North,Cash,216069.97
+100431,2024-03-06,1190,Consumer,Furniture,Chair,35248.86,4.0,0.22,North,UPI,109976.44
+100432,2024-03-07,1085,Corporate,Electronics,Mobile,18788.34,3.0,0.26,North,Cash,41710.11
+100433,2024-03-08,1050,Home Office,Clothing,Table,28270.27,3.0,0.28,South,Cash,61063.78
+100434,2024-03-09,1152,Consumer,Electronics,Jeans,22644.19,9.0,0.15,South,Cash,173228.05
+100435,2024-03-10,1185,Home Office,Electronics,Table,33668.39,5.0,0.21,North,UPI,132990.14
+100436,2024-03-11,1062,Corporate,Clothing,T-Shirt,29261.14,3.0,0.26,East,Card,64959.73
+100437,2024-03-12,1189,Corporate,Clothing,Jeans,26382.66,5.0,0.13,South,Cash,114764.57
+100438,2024-03-13,1124,Consumer,Furniture,Mobile,12626.31,2.0,0.09,West,Card,22979.88
+100439,2024-03-14,1149,Corporate,Clothing,Laptop,300.52,4.0,0.28,South,UPI,865.5
+100440,2024-03-15,1057,Consumer,Furniture,Table,8869.27,2.0,0.15,North,Card,15077.76
+100441,2024-03-16,1057,Corporate,Furniture,T-Shirt,6029.89,2.0,0.15,East,Cash,10250.81
+100442,2024-03-17,1085,Corporate,Furniture,Mobile,22564.42,8.0,0.05,North,Cash,171489.59
+100443,2024-03-18,1048,Consumer,Clothing,Mobile,30690.46,1.0,0.03,West,Cash,29769.75
+100444,2024-03-19,1179,Consumer,Electronics,Mobile,10811.63,7.0,0.25,South,Cash,56761.06
+100445,2024-03-20,1169,Consumer,Furniture,Mobile,46965.04,5.0,0.18,South,Cash,192556.66
+100446,2024-03-21,1069,Corporate,Electronics,Jeans,532.77,8.0,0.1,North,Cash,3835.94
+100447,2024-03-22,1014,Corporate,Electronics,Mobile,38660.59,1.0,0.06,South,UPI,36340.95
+100448,2024-03-23,1053,Home Office,Clothing,Table,31335.2,7.0,0.17,West,UPI,182057.51
+100449,2024-03-24,1187,Consumer,Electronics,T-Shirt,18803.03,5.0,0.18,East,UPI,77092.42
+100450,2024-03-25,1100,Corporate,Electronics,Jeans,26609.405,4.0,0.06,West,Card,10205.96
+100451,2024-03-26,1007,Corporate,Clothing,Mobile,31448.83,7.0,0.26,East,Card,162904.94
+100452,2024-03-27,1052,Consumer,Furniture,Chair,19403.55,2.0,0.03,South,UPI,37642.89
+100453,2024-03-28,1059,Home Office,Electronics,Chair,46826.1,1.0,0.11,East,Card,41675.23
+100454,2024-03-29,1107,Consumer,Clothing,T-Shirt,27191.11,1.0,0.2,East,Card,21752.89
+100455,2024-03-30,1004,Home Office,Electronics,Laptop,46994.65,1.0,0.08,South,Cash,43235.08
+100456,2024-03-31,1102,Corporate,Electronics,Laptop,11180.09,5.0,0.25,South,Cash,41925.34
+100457,2024-04-01,1195,Home Office,Furniture,Jeans,36341.15,7.0,0.22,South,Card,198422.68
+100458,2024-04-02,1005,Corporate,Electronics,Jeans,30939.0,2.0,0.24,West,Card,47027.28
+100459,2024-04-03,1108,Consumer,Clothing,Jeans,37022.53,8.0,0.04,South,UPI,284333.03
+100460,2024-04-04,1115,Consumer,Electronics,Laptop,10890.46,4.0,0.04,North,Card,41819.37
+100461,2024-04-05,1093,Consumer,Furniture,Chair,33316.73,3.0,0.09,South,Cash,90954.67
+100462,2024-04-06,1046,Home Office,Furniture,Laptop,25002.41,8.0,0.16,South,Card,168016.2
+100463,2024-04-07,1098,Corporate,Clothing,Table,37192.68,2.0,0.22,South,UPI,58020.58
+100464,2024-04-08,1054,Consumer,Furniture,Mobile,16486.82,3.0,0.25,East,Cash,37095.34
+100465,2024-04-09,1167,Consumer,Electronics,Jeans,44524.84,3.0,0.21,West,Cash,105523.87
+100466,2024-04-10,1051,Corporate,Furniture,Chair,4398.21,1.0,0.28,South,Cash,3166.71
+100467,2024-04-11,1143,Consumer,Clothing,T-Shirt,40398.03,6.0,0.22,West,Cash,189062.78
+100468,2024-04-12,1012,Corporate,Furniture,T-Shirt,43093.72,2.0,0.09,North,Card,78430.57
+100469,2024-04-13,1113,Corporate,Furniture,Mobile,40899.17,1.0,0.08,North,UPI,37627.24
+100470,2024-04-14,1123,Corporate,Furniture,Chair,25733.77,2.0,0.21,South,Card,40659.36
+100471,2024-04-15,1105,Corporate,Clothing,Laptop,22031.57,6.0,0.06,North,Card,124258.05
+100472,2024-04-16,1157,Corporate,Furniture,Laptop,49813.86,4.0,0.03,West,Cash,193277.78
+100473,2024-04-17,1146,Home Office,Furniture,Table,11612.76,6.0,0.16,East,UPI,58528.31
+100474,2024-04-18,1144,Consumer,Electronics,Table,27434.42,9.0,0.25,South,Cash,185182.33
+100475,2024-04-19,1119,Home Office,Clothing,Laptop,33599.64,8.0,0.03,North,Card,260733.21
+100476,2024-04-20,1062,Consumer,Furniture,T-Shirt,35103.21,1.0,0.24,West,Card,26678.44
+100477,2024-04-21,1018,Home Office,Clothing,Jeans,10360.43,8.0,0.24,West,Cash,62991.41
+100478,2024-04-22,1091,Corporate,Furniture,T-Shirt,32768.91,9.0,0.14,North,Card,253631.36
+100479,2024-04-23,1057,Consumer,Furniture,Table,40954.8,6.0,0.02,West,Card,240814.22
+100480,2024-04-24,1182,Consumer,Furniture,Mobile,2690.93,5.0,0.05,West,Cash,12781.92
+100481,2024-04-25,1089,Home Office,Electronics,Laptop,45593.76,6.0,0.21,South,Card,216114.42
+100482,2024-04-26,1116,Home Office,Electronics,Table,1669.3,5.0,0.21,South,UPI,7912.48
+100483,2024-04-27,1061,Consumer,Electronics,Table,17927.36,9.0,0.27,North,Cash,117782.76
+100484,2024-04-28,1022,Home Office,Clothing,Jeans,987.5,4.0,0.17,South,UPI,3278.5
+100485,2024-04-29,1126,Home Office,Clothing,Laptop,4041.83,2.0,0.04,North,Card,7760.31
+100486,2024-04-30,1136,Home Office,Electronics,Jeans,45576.18,5.0,0.04,East,Card,393778.2
+100487,2024-05-01,1139,Corporate,Clothing,Laptop,17872.07,2.0,0.22,North,Cash,27880.43
+100488,2024-05-02,1128,Corporate,Furniture,Jeans,21353.62,9.0,0.06,North,Card,180651.63
+100489,2024-05-03,1057,Home Office,Furniture,T-Shirt,10924.15,2.0,0.1,South,Cash,19663.47
+100490,2024-05-04,1121,Home Office,Furniture,Mobile,29935.37,8.0,0.15,West,Cash,203560.52
+100491,2024-05-05,1000,Corporate,Electronics,Mobile,29821.2,9.0,0.01,North,Cash,265706.89
+100492,2024-05-06,1033,Corporate,Clothing,Laptop,18735.58,9.0,0.07,South,Cash,156816.8
+100493,2024-05-07,1095,Consumer,Electronics,Chair,16785.14,9.0,0.12,East,Cash,132938.31
+100494,2024-05-08,1125,Consumer,Clothing,Table,44271.22,2.0,0.08,South,UPI,81459.04
+100495,2024-05-09,1117,Corporate,Furniture,Table,19287.56,4.0,0.04,South,Cash,74064.23
+100496,2024-05-10,1047,Home Office,Electronics,Laptop,24776.35,7.0,0.22,West,UPI,135278.87
+100497,2024-05-11,1088,Home Office,Clothing,Jeans,14308.58,2.0,0.24,North,Card,21749.04
+100498,2024-05-12,1116,Home Office,Clothing,Chair,39381.12,1.0,0.08,East,Cash,36230.63
+100499,2024-05-13,1128,Home Office,Furniture,T-Shirt,19992.92,3.0,0.23,South,Card,46183.65
+100500,2024-05-14,1015,Consumer,Electronics,Jeans,25777.83,4.0,0.12,North,Cash,90737.96
+100501,2024-05-15,1188,Corporate,Electronics,Jeans,26609.405,8.0,0.15,North,UPI,87156.89
+100502,2024-05-16,1191,Home Office,Electronics,Laptop,49385.45,6.0,0.26,South,UPI,219271.4
+100503,2024-05-17,1190,Consumer,Furniture,Laptop,14716.49,2.0,0.22,North,UPI,22957.72
+100504,2024-05-18,1068,Home Office,Electronics,Table,38582.98,9.0,0.24,South,Card,263907.58
+100505,2024-05-19,1021,Corporate,Furniture,Laptop,21489.28,2.0,0.04,South,Cash,41259.42
+100506,2024-05-20,1092,Consumer,Furniture,Laptop,10469.63,5.0,0.02,South,Card,51301.19
+100507,2024-05-21,1194,Corporate,Furniture,Laptop,40025.99,4.0,0.27,East,UPI,116875.89
+100508,2024-05-22,1075,Corporate,Clothing,Table,16813.62,7.0,0.12,South,Card,103571.9
+100509,2024-05-23,1153,Consumer,Electronics,T-Shirt,43286.63,8.0,0.09,West,UPI,315126.67
+100510,2024-05-24,1143,Consumer,Electronics,T-Shirt,26609.405,5.0,0.22,North,UPI,178541.26
+100511,2024-05-25,1178,Consumer,Furniture,Laptop,43019.23,5.0,0.25,East,UPI,161322.11
+100512,2024-05-26,1085,Consumer,Furniture,Table,1943.39,2.0,0.26,North,Cash,2876.22
+100513,2024-05-27,1184,Consumer,Electronics,T-Shirt,39411.19,8.0,0.09,East,Cash,286913.46
+100514,2024-05-28,1028,Consumer,Furniture,Jeans,20684.71,2.0,0.26,West,UPI,30613.37
+100515,2024-05-29,1068,Consumer,Electronics,T-Shirt,43711.4,6.0,0.01,East,Card,259645.72
+100516,2024-05-30,1046,Home Office,Clothing,T-Shirt,26609.405,8.0,0.01,East,Card,253203.35
+100517,2024-05-31,1093,Corporate,Furniture,Table,41715.43,6.0,0.19,East,Cash,202736.99
+100518,2024-06-01,1189,Consumer,Electronics,Jeans,25071.7,4.0,0.02,North,UPI,98281.06
+100519,2024-06-02,1196,Home Office,Furniture,Table,26844.27,4.0,0.1,South,Card,96639.37
+100520,2024-06-03,1143,Home Office,Electronics,Laptop,7390.5,6.0,0.2,North,UPI,35474.4
+100521,2024-06-04,1175,Home Office,Electronics,Mobile,39242.57,4.0,0.1,South,Card,141273.25
+100522,2024-06-05,1084,Corporate,Furniture,T-Shirt,21085.6,8.0,0.05,North,Cash,160250.56
+100523,2024-06-06,1038,Consumer,Clothing,Mobile,25103.99,9.0,0.08,West,UPI,207861.04
+100524,2024-06-07,1099,Home Office,Electronics,Table,39297.87,1.0,0.14,West,UPI,33796.17
+100525,2024-06-08,1032,Corporate,Electronics,Table,30022.5,4.0,0.14,East,Card,103277.4
+100526,2024-06-09,1100,Corporate,Electronics,Table,10214.72,4.0,0.23,West,Card,31461.34
+100527,2024-06-10,1022,Corporate,Clothing,Mobile,29593.59,2.0,0.23,East,Card,45574.13
+100528,2024-06-11,1009,Home Office,Clothing,Table,20500.12,6.0,0.14,South,UPI,105780.62
+100529,2024-06-12,1068,Consumer,Furniture,Laptop,23582.37,3.0,0.25,West,Cash,53060.33
+100530,2024-06-13,1099,Home Office,Clothing,Table,1609.9,7.0,0.03,South,Cash,10931.22
+100531,2024-06-14,1033,Home Office,Furniture,Chair,10659.46,5.0,0.08,North,Card,49033.52
+100532,2024-06-15,1179,Consumer,Furniture,Mobile,14195.7,4.0,0.25,South,Cash,42587.1
+100533,2024-06-16,1137,Consumer,Clothing,Chair,35705.41,5.0,0.11,North,Card,158889.07
+100534,2024-06-17,1146,Consumer,Furniture,Table,772.33,8.0,0.29,South,Cash,4386.83
+100535,2024-06-18,1185,Corporate,Clothing,Laptop,26609.405,3.0,0.14,South,UPI,53037.34
+100536,2024-06-19,1095,Consumer,Furniture,T-Shirt,46216.54,7.0,0.24,West,Card,245871.99
+100537,2024-06-20,1000,Home Office,Clothing,Jeans,26609.405,6.0,0.12,South,Cash,30474.31
+100538,2024-06-21,1068,Consumer,Clothing,Jeans,25917.93,1.0,0.13,West,UPI,22548.6
+100539,2024-06-22,1003,Home Office,Furniture,Table,39368.81,7.0,0.11,West,Cash,245267.69
+100540,2024-06-23,1015,Corporate,Electronics,Laptop,47138.06,7.0,0.22,East,UPI,257373.81
+100541,2024-06-24,1023,Home Office,Furniture,Mobile,37389.48,1.0,0.16,East,UPI,31407.16
+100542,2024-06-25,1079,Home Office,Clothing,Chair,36084.16,9.0,0.28,North,Cash,233825.36
+100543,2024-06-26,1001,Consumer,Electronics,Chair,26609.405,6.0,0.08,South,Cash,228302.29
+100544,2024-06-27,1127,Consumer,Furniture,Chair,22420.82,2.0,0.03,North,UPI,43496.39
+100545,2024-06-28,1159,Home Office,Furniture,Mobile,40331.06,5.0,0.12,South,UPI,177456.66
+100546,2024-06-29,1083,Consumer,Furniture,Jeans,596.63,4.0,0.19,East,UPI,1933.08
+100547,2024-06-30,1151,Corporate,Electronics,Laptop,46243.14,7.0,0.26,East,Card,239539.47
+100548,2024-07-01,1139,Corporate,Clothing,Mobile,22276.66,8.0,0.1,South,UPI,160391.95
+100549,2024-07-02,1177,Consumer,Furniture,Chair,27758.33,1.0,0.2,South,Card,22206.66
+100550,2024-07-03,1162,Corporate,Furniture,Table,12893.14,5.0,0.11,East,UPI,57374.47
+100551,2024-07-04,1123,Consumer,Furniture,T-Shirt,37178.04,3.0,0.19,East,Card,90342.64
+100552,2024-07-05,1032,Home Office,Furniture,Mobile,4016.46,1.0,0.27,North,UPI,2932.02
+100553,2024-07-06,1160,Home Office,Furniture,Mobile,43657.26,3.0,0.07,East,UPI,121803.76
+100554,2024-07-07,1188,Corporate,Clothing,Laptop,26609.405,6.0,0.12,South,UPI,218804.36
+100555,2024-07-08,1178,Consumer,Clothing,Laptop,10959.79,7.0,0.3,North,Cash,53702.97
+100556,2024-07-09,1170,Consumer,Furniture,Mobile,40504.36,8.0,0.26,South,Cash,239785.81
+100557,2024-07-10,1100,Corporate,Electronics,Chair,39360.62,4.0,0.17,West,UPI,130677.26
+100558,2024-07-11,1011,Home Office,Clothing,T-Shirt,31684.39,3.0,0.15,North,Card,80795.19
+100559,2024-07-12,1066,Corporate,Electronics,Laptop,18801.3,5.0,0.09,South,Card,85545.92
+100560,2024-07-13,1064,Home Office,Clothing,Chair,13720.64,9.0,0.16,East,UPI,103728.04
+100561,2024-07-14,1160,Consumer,Furniture,Table,11742.82,6.0,0.25,West,Cash,52842.69
+100562,2024-07-15,1167,Home Office,Clothing,Laptop,16066.73,9.0,0.21,South,Card,114234.45
+100563,2024-07-16,1073,Corporate,Furniture,Chair,45197.21,6.0,0.09,North,Cash,246776.77
+100564,2024-07-17,1042,Consumer,Clothing,Chair,4066.51,2.0,0.06,South,Card,7645.04
+100565,2024-07-18,1043,Corporate,Furniture,T-Shirt,41477.79,5.0,0.08,West,UPI,190797.83
+100566,2024-07-19,1028,Corporate,Furniture,T-Shirt,17574.73,9.0,0.05,North,Cash,150263.94
+100567,2024-07-20,1140,Home Office,Furniture,Table,26175.65,8.0,0.03,West,Card,203123.04
+100568,2024-07-21,1011,Corporate,Furniture,Chair,39765.38,7.0,0.13,South,UPI,242171.16
+100569,2024-07-22,1094,Home Office,Electronics,Jeans,44241.95,1.0,0.03,East,UPI,42914.69
+100570,2024-07-23,1045,Consumer,Furniture,Chair,17370.11,4.0,0.05,East,UPI,66006.42
+100571,2024-07-24,1129,Home Office,Electronics,T-Shirt,26609.405,7.0,0.16,South,Cash,136414.88
+100572,2024-07-25,1034,Consumer,Electronics,Jeans,20842.9,7.0,0.05,South,Cash,138605.28
+100573,2024-07-26,1080,Home Office,Furniture,Laptop,859.9,6.0,0.02,South,UPI,5056.21
+100574,2024-07-27,1089,Corporate,Electronics,Laptop,14937.96,8.0,0.1,North,Cash,107553.31
+100575,2024-07-28,1007,Home Office,Clothing,Mobile,23067.62,6.0,0.07,West,Card,128717.32
+100576,2024-07-29,1092,Home Office,Furniture,T-Shirt,20672.46,3.0,0.15,West,UPI,52714.77
+100577,2024-07-30,1153,Consumer,Electronics,Mobile,26609.405,4.0,0.03,West,UPI,140270.07
+100578,2024-07-31,1089,Corporate,Furniture,Jeans,19363.22,3.0,0.23,South,Cash,44729.04
+100579,2024-08-01,1161,Home Office,Furniture,T-Shirt,24570.95,1.0,0.27,West,UPI,17936.79
+100580,2024-08-02,1114,Corporate,Furniture,Table,21594.51,5.0,0.22,South,Card,84218.59
+100581,2024-08-03,1104,Home Office,Electronics,Chair,37083.18,1.0,0.16,North,Cash,31149.87
+100582,2024-08-04,1134,Home Office,Clothing,Table,26609.405,1.0,0.26,East,Cash,31950.26
+100583,2024-08-05,1195,Corporate,Clothing,Jeans,26688.08,2.0,0.21,South,UPI,42167.17
+100584,2024-08-06,1057,Home Office,Electronics,T-Shirt,39513.72,4.0,0.0,South,UPI,158054.88
+100585,2024-08-07,1113,Corporate,Furniture,Jeans,14979.98,6.0,0.12,East,UPI,79094.29
+100586,2024-08-08,1074,Home Office,Electronics,Chair,27160.21,8.0,0.26,East,Cash,160788.44
+100587,2024-08-09,1156,Consumer,Electronics,Laptop,17392.45,3.0,0.1,North,UPI,46959.62
+100588,2024-08-10,1119,Corporate,Electronics,Laptop,20827.21,1.0,0.01,West,Card,20618.94
+100589,2024-08-11,1163,Home Office,Furniture,Jeans,36674.21,3.0,0.22,South,UPI,85817.65
+100590,2024-08-12,1020,Home Office,Electronics,Mobile,44106.79,3.0,0.24,West,UPI,100563.48
+100591,2024-08-13,1163,Consumer,Furniture,T-Shirt,6250.47,5.0,0.05,South,Cash,29689.73
+100592,2024-08-14,1137,Corporate,Electronics,T-Shirt,31805.03,5.0,0.16,North,UPI,106864.9
+100593,2024-08-15,1100,Home Office,Clothing,Laptop,29190.76,4.0,0.06,East,Cash,109757.26
+100594,2024-08-16,1151,Consumer,Electronics,Table,6097.07,9.0,0.22,North,UPI,42801.43
+100595,2024-08-17,1191,Home Office,Electronics,Chair,10752.34,7.0,0.08,East,Card,69245.07
+100596,2024-08-18,1176,Corporate,Clothing,Table,15687.92,4.0,0.09,West,Card,57104.03
+100597,2024-08-19,1098,Home Office,Furniture,Table,8513.17,3.0,0.25,West,Cash,19154.63
+100598,2024-08-20,1035,Home Office,Furniture,Jeans,12337.73,6.0,0.14,North,Cash,63662.69
+100599,2024-08-21,1095,Home Office,Electronics,Laptop,13526.52,3.0,0.2,East,UPI,32463.65
+100600,2024-08-22,1151,Home Office,Clothing,Laptop,16916.56,6.0,0.12,North,UPI,89319.44
+100601,2024-08-23,1150,Consumer,Furniture,Laptop,37519.64,9.0,0.09,East,Card,307285.85
+100602,2024-08-24,1189,Consumer,Electronics,Jeans,28681.23,6.0,0.19,East,UPI,139390.78
+100603,2024-08-25,1036,Corporate,Clothing,Mobile,49315.08,4.0,0.05,West,Card,187397.3
+100604,2024-08-26,1011,Consumer,Furniture,Table,20853.84,5.0,0.11,West,Cash,92799.59
+100605,2024-08-27,1112,Consumer,Furniture,Jeans,37742.48,5.0,0.06,East,UPI,212867.59
+100606,2024-08-28,1182,Corporate,Clothing,T-Shirt,43599.13,3.0,0.21,East,Cash,103329.94
+100607,2024-08-29,1012,Consumer,Clothing,Chair,34013.13,8.0,0.28,East,UPI,195915.63
+100608,2024-08-30,1022,Consumer,Clothing,Mobile,20710.86,4.0,0.3,West,Card,57990.41
+100609,2024-08-31,1098,Corporate,Clothing,T-Shirt,37729.01,8.0,0.14,West,Cash,259575.59
+100610,2024-09-01,1104,Corporate,Electronics,Table,10342.62,3.0,0.08,South,Cash,28545.63
+100611,2024-09-02,1029,Corporate,Clothing,Laptop,16512.1,7.0,0.13,East,UPI,100558.69
+100612,2024-09-03,1016,Home Office,Furniture,Table,27424.93,9.0,0.25,South,Cash,185118.28
+100613,2024-09-04,1112,Home Office,Furniture,Jeans,28855.39,4.0,0.06,East,Card,108496.27
+100614,2024-09-05,1061,Corporate,Electronics,Chair,1302.65,8.0,0.29,West,Cash,7399.05
+100615,2024-09-06,1083,Corporate,Furniture,Jeans,47266.69,3.0,0.1,South,Cash,127620.06
+100616,2024-09-07,1111,Corporate,Furniture,Mobile,34892.04,7.0,0.3,South,UPI,170971.0
+100617,2024-09-08,1085,Home Office,Clothing,Mobile,24886.05,3.0,0.25,North,Cash,55993.61
+100618,2024-09-09,1140,Home Office,Furniture,Chair,26609.405,7.0,0.24,East,UPI,248283.02
+100619,2024-09-10,1186,Consumer,Electronics,T-Shirt,22066.96,6.0,0.1,West,UPI,119161.58
+100620,2024-09-11,1018,Consumer,Clothing,T-Shirt,49025.69,2.0,0.0,North,Cash,98051.38
+100621,2024-09-12,1176,Corporate,Clothing,Mobile,25711.78,3.0,0.11,North,Card,68650.45
+100622,2024-09-13,1099,Home Office,Electronics,Mobile,5891.43,6.0,0.09,East,UPI,32167.21
+100623,2024-09-14,1139,Home Office,Clothing,Laptop,38287.09,4.0,0.01,North,Cash,151616.88
+100624,2024-09-15,1188,Home Office,Clothing,T-Shirt,34009.11,6.0,0.15,East,UPI,173446.46
+100625,2024-09-16,1146,Corporate,Electronics,Chair,38694.74,1.0,0.12,South,Card,34051.37
+100626,2024-09-17,1075,Consumer,Clothing,T-Shirt,47581.81,1.0,0.19,East,Card,38541.27
+100627,2024-09-18,1008,Corporate,Electronics,Laptop,38869.17,3.0,0.19,West,UPI,94452.08
+100628,2024-09-19,1198,Consumer,Electronics,Jeans,30644.56,8.0,0.04,East,Card,235350.22
+100629,2024-09-20,1027,Consumer,Furniture,Mobile,42893.98,8.0,0.29,East,Cash,243637.81
+100630,2024-09-21,1127,Corporate,Furniture,Mobile,33727.67,4.0,0.06,South,Cash,126816.04
+100631,2024-09-22,1051,Consumer,Clothing,Laptop,20524.33,6.0,0.13,West,UPI,107137.0
+100632,2024-09-23,1082,Consumer,Clothing,Chair,44303.86,8.0,0.15,West,Card,301266.25
+100633,2024-09-24,1110,Home Office,Electronics,Mobile,11250.64,7.0,0.24,West,Cash,59853.4
+100634,2024-09-25,1143,Consumer,Clothing,Table,35789.14,7.0,0.03,North,Cash,243008.26
+100635,2024-09-26,1116,Corporate,Electronics,Mobile,26609.405,4.0,0.13,South,Cash,153474.47
+100636,2024-09-27,1068,Corporate,Electronics,Table,36619.56,9.0,0.19,West,UPI,266956.59
+100637,2024-09-28,1098,Consumer,Clothing,Laptop,34924.32,6.0,0.06,North,UPI,196973.16
+100638,2024-09-29,1139,Home Office,Electronics,Laptop,37681.39,3.0,0.19,North,Cash,91565.78
+100639,2024-09-30,1024,Home Office,Furniture,Mobile,23359.75,5.0,0.28,North,Cash,84095.1
+100640,2024-10-01,1179,Consumer,Clothing,T-Shirt,43733.7,5.0,0.3,South,Card,153067.95
+100641,2024-10-02,1122,Consumer,Furniture,Table,10331.14,5.0,0.01,North,Card,51139.14
+100642,2024-10-03,1052,Corporate,Clothing,Chair,6543.84,8.0,0.07,South,Card,48686.17
+100643,2024-10-04,1150,Consumer,Electronics,Mobile,14418.34,9.0,0.09,East,UPI,118086.2
+100644,2024-10-05,1143,Home Office,Clothing,Chair,26672.55,9.0,0.12,North,Cash,211246.6
+100645,2024-10-06,1056,Consumer,Furniture,Mobile,25625.98,6.0,0.07,West,UPI,142992.97
+100646,2024-10-07,1038,Corporate,Electronics,T-Shirt,41065.82,6.0,0.06,North,Cash,231611.22
+100647,2024-10-08,1108,Corporate,Clothing,T-Shirt,20347.52,9.0,0.29,East,Card,130020.65
+100648,2024-10-09,1180,Corporate,Clothing,T-Shirt,24320.35,4.0,0.28,East,Card,70042.61
+100649,2024-10-10,1041,Corporate,Clothing,Jeans,865.71,6.0,0.01,North,Card,5142.32
+100650,2024-10-11,1185,Corporate,Furniture,T-Shirt,20605.01,4.0,0.1,East,Card,74178.04
+100651,2024-10-12,1166,Consumer,Furniture,Laptop,32459.16,1.0,0.12,South,Cash,28564.06
+100652,2024-10-13,1141,Consumer,Clothing,Laptop,972.31,7.0,0.07,South,Card,6329.74
+100653,2024-10-14,1121,Consumer,Electronics,Jeans,14187.92,6.0,0.19,North,Cash,68953.29
+100654,2024-10-15,1132,Consumer,Electronics,Table,26609.405,9.0,0.19,South,Cash,76954.92
+100655,2024-10-16,1162,Corporate,Furniture,Chair,2290.87,7.0,0.26,South,UPI,11866.71
+100656,2024-10-17,1074,Home Office,Electronics,Mobile,24067.15,7.0,0.22,West,Card,131406.64
+100657,2024-10-18,1145,Consumer,Furniture,Mobile,9249.82,2.0,0.16,North,Card,15539.7
+100658,2024-10-19,1075,Home Office,Clothing,Jeans,37205.46,9.0,0.2,East,UPI,267879.31
+100659,2024-10-20,1008,Consumer,Furniture,Laptop,42426.81,9.0,0.08,North,Cash,351293.99
+100660,2024-10-21,1073,Consumer,Furniture,Mobile,27370.14,6.0,0.18,South,Card,134661.09
+100661,2024-10-22,1185,Home Office,Clothing,Laptop,49089.03,3.0,0.15,South,Cash,125177.03
+100662,2024-10-23,1144,Corporate,Electronics,Table,22633.83,1.0,0.04,North,UPI,21728.48
+100663,2024-10-24,1006,Consumer,Furniture,Chair,25765.74,4.0,0.07,North,Cash,95848.55
+100664,2024-10-25,1173,Consumer,Furniture,Table,49463.04,3.0,0.09,South,Card,135034.1
+100665,2024-10-26,1140,Consumer,Clothing,Jeans,11731.11,1.0,0.28,South,Cash,8446.4
+100666,2024-10-27,1167,Home Office,Electronics,T-Shirt,47138.79,3.0,0.07,North,Cash,131517.22
+100667,2024-10-28,1169,Corporate,Furniture,T-Shirt,2333.31,4.0,0.09,South,Card,8493.25
+100668,2024-10-29,1136,Home Office,Clothing,T-Shirt,22430.07,8.0,0.11,South,Card,159702.1
+100669,2024-10-30,1177,Home Office,Furniture,Table,3686.17,9.0,0.2,South,Cash,26540.42
+100670,2024-10-31,1026,Corporate,Clothing,Mobile,36515.89,3.0,0.04,South,Cash,105165.76
+100671,2024-11-01,1121,Home Office,Electronics,Chair,30498.77,6.0,0.29,South,UPI,129924.76
+100672,2024-11-02,1193,Corporate,Electronics,T-Shirt,35390.39,5.0,0.26,West,Card,130944.44
+100673,2024-11-03,1004,Consumer,Electronics,Jeans,18849.12,6.0,0.17,South,Cash,93868.62
+100674,2024-11-04,1028,Corporate,Electronics,Jeans,18600.2,4.0,0.2,East,Card,59520.64
+100675,2024-11-05,1164,Consumer,Furniture,T-Shirt,2456.9,6.0,0.0,North,UPI,14741.4
+100676,2024-11-06,1165,Home Office,Furniture,T-Shirt,17627.26,7.0,0.1,West,Cash,111051.74
+100677,2024-11-07,1082,Home Office,Electronics,Chair,46478.56,9.0,0.24,West,Cash,317913.35
+100678,2024-11-08,1135,Consumer,Electronics,T-Shirt,26609.405,7.0,0.02,South,Cash,130926.39
+100679,2024-11-09,1108,Home Office,Electronics,Chair,41602.11,6.0,0.08,North,Card,229643.65
+100680,2024-11-10,1064,Corporate,Furniture,Jeans,42147.81,1.0,0.18,East,UPI,34561.2
+100681,2024-11-11,1085,Consumer,Electronics,T-Shirt,18787.41,2.0,0.08,South,Card,34568.83
+100682,2024-11-12,1144,Home Office,Electronics,Table,31673.04,5.0,0.28,North,Cash,22804.59
+100683,2024-11-13,1070,Consumer,Electronics,Table,4949.51,9.0,0.04,South,UPI,42763.77
+100684,2024-11-14,1044,Corporate,Clothing,Jeans,5363.19,9.0,0.24,South,Cash,36684.22
+100685,2024-11-15,1131,Corporate,Electronics,Chair,2623.15,7.0,0.15,South,Cash,15607.74
+100686,2024-11-16,1035,Home Office,Clothing,Table,29134.55,2.0,0.23,South,Card,44867.21
+100687,2024-11-17,1069,Corporate,Clothing,Chair,21418.33,6.0,0.09,South,Cash,116944.08
+100688,2024-11-18,1158,Consumer,Electronics,Table,27492.01,4.0,0.15,South,UPI,93472.83
+100689,2024-11-19,1018,Corporate,Clothing,Table,26149.44,1.0,0.26,South,Cash,19350.59
+100690,2024-11-20,1188,Consumer,Electronics,Chair,17640.11,1.0,0.14,East,Cash,15170.49
+100691,2024-11-21,1107,Consumer,Furniture,Mobile,26609.405,5.0,0.11,West,Card,151024.9
+100692,2024-11-22,1181,Corporate,Furniture,Table,37973.39,2.0,0.16,East,UPI,63795.3
+100693,2024-11-23,1166,Home Office,Furniture,T-Shirt,928.49,5.0,0.22,South,Card,2896.89
+100694,2024-11-24,1090,Corporate,Furniture,Jeans,10520.67,1.0,0.13,South,Cash,9152.98
+100695,2024-11-25,1089,Consumer,Clothing,Mobile,26609.405,4.0,0.28,East,Card,102871.15
+100696,2024-11-26,1018,Consumer,Electronics,Chair,19453.68,6.0,0.09,East,Card,106217.09
+100697,2024-11-27,1038,Corporate,Electronics,Mobile,33191.7,4.0,0.14,West,Card,114179.45
+100698,2024-11-28,1125,Home Office,Electronics,Laptop,17478.74,1.0,0.23,East,Card,13458.63
+100699,2024-11-29,1194,Home Office,Furniture,Laptop,19659.61,7.0,0.21,West,Cash,108717.64
+100700,2024-11-30,1172,Consumer,Furniture,Table,8102.21,2.0,0.26,South,Cash,11991.27
+100701,2024-12-01,1140,Consumer,Electronics,Table,13059.9,9.0,0.3,North,UPI,82277.37
+100702,2024-12-02,1125,Home Office,Furniture,T-Shirt,30349.51,3.0,0.13,North,Card,79212.22
+100703,2024-12-03,1057,Corporate,Electronics,Jeans,21771.52,8.0,0.03,North,Card,168947.0
+100704,2024-12-04,1147,Consumer,Electronics,Mobile,38760.27,8.0,0.01,North,UPI,306981.34
+100705,2024-12-05,1199,Consumer,Electronics,Laptop,42658.73,3.0,0.22,South,Card,99821.43
+100706,2024-12-06,1060,Home Office,Electronics,Table,27173.99,4.0,0.26,North,UPI,80435.01
+100707,2024-12-07,1126,Corporate,Electronics,Jeans,37961.71,2.0,0.07,East,Cash,70608.78
+100708,2024-12-08,1104,Home Office,Electronics,Mobile,15483.84,4.0,0.05,East,UPI,58838.59
+100709,2024-12-09,1166,Corporate,Electronics,Table,20865.57,9.0,0.02,North,Card,184034.33
+100710,2024-12-10,1000,Corporate,Furniture,Table,35696.33,2.0,0.25,East,UPI,53544.5
+100711,2024-12-11,1130,Corporate,Electronics,Laptop,19433.36,3.0,0.09,West,Cash,53053.07
+100712,2024-12-12,1091,Consumer,Electronics,Laptop,29507.55,4.0,0.12,South,Card,103866.58
+100713,2024-12-13,1189,Home Office,Furniture,Table,9431.56,5.0,0.15,North,Cash,40084.13
+100714,2024-12-14,1190,Home Office,Furniture,Chair,30068.61,1.0,0.25,North,Cash,22551.46
+100715,2024-12-15,1112,Corporate,Furniture,Table,43103.38,7.0,0.2,South,UPI,241378.93
+100716,2024-12-16,1152,Consumer,Electronics,Jeans,43458.25,7.0,0.18,East,Cash,249450.36
+100717,2024-12-17,1055,Consumer,Clothing,Table,36272.35,9.0,0.05,South,Card,310128.59
+100718,2024-12-18,1160,Home Office,Clothing,T-Shirt,37338.52,4.0,0.15,South,Cash,126950.97
+100719,2024-12-19,1165,Consumer,Furniture,T-Shirt,27984.79,6.0,0.21,East,Cash,132647.9
+100720,2024-12-20,1116,Consumer,Clothing,T-Shirt,29316.47,2.0,0.29,South,UPI,41629.39
+100721,2024-12-21,1133,Corporate,Furniture,Chair,6855.8,4.0,0.06,East,Cash,25777.81
+100722,2024-12-22,1057,Consumer,Electronics,Chair,22304.19,2.0,0.0,East,UPI,44608.38
+100723,2024-12-23,1043,Corporate,Clothing,Table,22648.66,5.0,0.02,South,UPI,110978.43
+100724,2024-12-24,1172,Home Office,Electronics,T-Shirt,47933.19,7.0,0.11,West,Card,298623.77
+100725,2024-12-25,1159,Consumer,Clothing,Chair,21668.13,1.0,0.25,East,Card,16251.1
+100726,2024-12-26,1172,Home Office,Electronics,Laptop,27557.26,7.0,0.0,South,Card,192900.82
+100727,2024-12-27,1060,Home Office,Clothing,Table,26755.92,6.0,0.14,East,Card,138060.55
+100728,2024-12-28,1046,Consumer,Electronics,Jeans,31910.73,6.0,0.1,West,UPI,172317.94
+100729,2024-12-29,1148,Consumer,Electronics,Mobile,37462.0,8.0,0.02,West,Cash,293702.08
+100730,2024-12-30,1079,Home Office,Clothing,Table,11407.09,8.0,0.14,North,Card,78480.78
+100731,2024-12-31,1117,Consumer,Electronics,Mobile,26530.48,6.0,0.08,East,Card,146448.25
+100732,2025-01-01,1163,Corporate,Electronics,T-Shirt,41330.7,3.0,0.11,East,Card,110352.97
+100733,2025-01-02,1146,Corporate,Electronics,Mobile,23263.11,5.0,0.21,South,Cash,91889.28
+100734,2025-01-03,1019,Consumer,Clothing,T-Shirt,14067.19,2.0,0.16,East,Card,23632.88
+100735,2025-01-04,1184,Home Office,Clothing,Laptop,32804.51,5.0,0.04,North,Cash,157461.65
+100736,2025-01-05,1145,Consumer,Electronics,Mobile,41223.62,9.0,0.29,West,UPI,263418.93
+100737,2025-01-06,1046,Consumer,Electronics,Table,3344.39,1.0,0.19,West,UPI,2708.96
+100738,2025-01-07,1048,Home Office,Clothing,T-Shirt,38884.17,5.0,0.23,North,UPI,149704.05
+100739,2025-01-08,1013,Home Office,Clothing,Table,41118.07,6.0,0.02,East,Cash,241774.25
+100740,2025-01-09,1142,Corporate,Electronics,Chair,23183.84,7.0,0.01,East,Card,160664.01
+100741,2025-01-10,1158,Home Office,Electronics,T-Shirt,49168.62,9.0,0.01,North,Card,438092.4
+100742,2025-01-11,1000,Corporate,Electronics,Mobile,39378.08,6.0,0.06,South,Card,222092.37
+100743,2025-01-12,1116,Home Office,Furniture,T-Shirt,38728.4,5.0,0.12,West,Card,170404.96
+100744,2025-01-13,1053,Consumer,Clothing,Table,37442.36,7.0,0.28,North,Card,188709.49
+100745,2025-01-14,1117,Corporate,Furniture,Laptop,7700.28,1.0,0.14,North,Cash,6622.24
+100746,2025-01-15,1002,Corporate,Clothing,T-Shirt,26609.405,5.0,0.09,East,UPI,50132.36
+100747,2025-01-16,1143,Corporate,Clothing,Mobile,23306.71,2.0,0.17,West,Card,38689.14
+100748,2025-01-17,1184,Consumer,Clothing,Chair,13347.42,4.0,0.03,East,UPI,51787.99
+100749,2025-01-18,1011,Consumer,Clothing,Jeans,20879.0,7.0,0.18,North,Cash,119845.46
+100750,2025-01-19,1073,Consumer,Clothing,Laptop,44445.51,5.0,0.17,South,Cash,184448.87
+100751,2025-01-20,1015,Consumer,Clothing,Chair,41251.48,6.0,0.24,West,Card,188106.75
+100752,2025-01-21,1199,Consumer,Clothing,T-Shirt,31575.99,2.0,0.3,North,Cash,44206.39
+100753,2025-01-22,1101,Corporate,Furniture,Table,42934.4,3.0,0.08,North,UPI,118498.94
+100754,2025-01-23,1151,Consumer,Electronics,Table,39231.86,7.0,0.15,South,Card,233429.57
+100755,2025-01-24,1155,Corporate,Electronics,Mobile,21563.45,2.0,0.27,North,Card,31482.64
+100756,2025-01-25,1116,Consumer,Furniture,Table,10213.04,6.0,0.24,North,UPI,46571.46
+100757,2025-01-26,1007,Home Office,Furniture,Laptop,25807.21,5.0,0.15,West,Card,109680.64
+100758,2025-01-27,1121,Corporate,Furniture,Table,36864.2,1.0,0.28,West,Card,26542.22
+100759,2025-01-28,1091,Home Office,Furniture,Mobile,21933.7,4.0,0.02,West,UPI,85980.1
+100760,2025-01-29,1163,Corporate,Clothing,Jeans,33405.24,2.0,0.28,East,Card,48103.55
+100761,2025-01-30,1089,Home Office,Electronics,T-Shirt,4897.51,4.0,0.02,South,Card,19198.24
+100762,2025-01-31,1135,Consumer,Clothing,T-Shirt,37450.64,1.0,0.16,West,UPI,31458.54
+100763,2025-02-01,1185,Consumer,Electronics,Table,40673.14,2.0,0.27,East,Cash,59382.78
+100764,2025-02-02,1059,Consumer,Electronics,Chair,35400.53,8.0,0.08,East,UPI,260547.9
+100765,2025-02-03,1177,Corporate,Furniture,T-Shirt,48369.73,5.0,0.14,South,Card,249587.81
+100766,2025-02-04,1027,Home Office,Clothing,Jeans,41367.27,2.0,0.1,South,UPI,74461.09
+100767,2025-02-05,1100,Consumer,Furniture,Table,45174.07,6.0,0.29,North,Card,192441.54
+100768,2025-02-06,1040,Home Office,Clothing,Mobile,46691.84,9.0,0.25,East,Card,315169.92
+100769,2025-02-07,1191,Home Office,Electronics,Jeans,40107.13,7.0,0.21,West,UPI,221792.43
+100770,2025-02-08,1154,Consumer,Furniture,Table,26609.405,9.0,0.18,South,Card,249282.3
+100771,2025-02-09,1190,Consumer,Furniture,Jeans,26609.405,5.0,0.25,East,Cash,1817.96
+100772,2025-02-10,1144,Home Office,Electronics,T-Shirt,23398.12,7.0,0.12,West,Card,144132.42
+100773,2025-02-11,1160,Consumer,Electronics,Mobile,28643.88,7.0,0.13,East,UPI,174441.23
+100774,2025-02-12,1156,Consumer,Electronics,Table,15340.71,3.0,0.22,South,Cash,35897.26
+100775,2025-02-13,1140,Consumer,Furniture,Laptop,16041.6,7.0,0.11,North,Cash,99939.17
+100776,2025-02-14,1045,Corporate,Clothing,Mobile,48065.74,1.0,0.02,East,Card,47104.43
+100777,2025-02-15,1034,Home Office,Furniture,Laptop,44607.2,9.0,0.02,West,UPI,393435.5
+100778,2025-02-16,1133,Home Office,Clothing,Jeans,42489.11,6.0,0.03,South,Card,247286.62
+100779,2025-02-17,1081,Corporate,Furniture,Chair,20419.39,5.0,0.26,North,Card,75551.74
+100780,2025-02-18,1114,Home Office,Furniture,Mobile,882.19,7.0,0.14,West,UPI,5310.78
+100781,2025-02-19,1196,Consumer,Electronics,Jeans,4195.07,5.0,0.21,West,UPI,16570.53
+100782,2025-02-20,1046,Home Office,Clothing,Laptop,15747.38,5.0,0.12,West,Card,69288.47
+100783,2025-02-21,1152,Consumer,Furniture,T-Shirt,984.0,7.0,0.08,East,Cash,6336.96
+100784,2025-02-22,1193,Corporate,Furniture,T-Shirt,1054.06,7.0,0.1,South,Card,6640.58
+100785,2025-02-23,1009,Consumer,Electronics,Chair,45846.84,3.0,0.24,West,Cash,104530.8
+100786,2025-02-24,1055,Home Office,Electronics,Mobile,35366.69,3.0,0.19,East,Card,85941.06
+100787,2025-02-25,1029,Home Office,Clothing,Mobile,15586.01,3.0,0.28,South,UPI,33665.78
+100788,2025-02-26,1108,Home Office,Furniture,Mobile,6805.7,6.0,0.2,South,Cash,32667.36
+100789,2025-02-27,1004,Corporate,Clothing,Jeans,25679.46,6.0,0.17,East,UPI,127883.71
+100790,2025-02-28,1118,Corporate,Furniture,Chair,466.24,3.0,0.18,East,UPI,1146.95
+100791,2025-03-01,1032,Home Office,Clothing,Mobile,46933.0,3.0,0.28,West,UPI,101375.28
+100792,2025-03-02,1117,Consumer,Electronics,Jeans,20857.79,8.0,0.24,South,UPI,126815.36
+100793,2025-03-03,1064,Corporate,Furniture,T-Shirt,20236.28,8.0,0.01,North,UPI,160271.34
+100794,2025-03-04,1145,Home Office,Clothing,Laptop,19651.56,7.0,0.16,East,Card,115551.17
+100795,2025-03-05,1176,Home Office,Electronics,Jeans,3652.55,4.0,0.21,South,Cash,11542.06
+100796,2025-03-06,1010,Corporate,Electronics,T-Shirt,31988.45,4.0,0.22,South,Card,99803.96
+100797,2025-03-07,1084,Corporate,Clothing,T-Shirt,36703.58,3.0,0.06,West,Card,103504.1
+100798,2025-03-08,1025,Corporate,Furniture,Laptop,33871.04,5.0,0.26,South,Card,125322.85
+100799,2025-03-09,1062,Consumer,Furniture,T-Shirt,7094.09,3.0,0.29,West,UPI,15110.41
+100800,2025-03-10,1085,Consumer,Electronics,Chair,29026.24,8.0,0.07,North,Card,215955.23
+100801,2025-03-11,1058,Home Office,Furniture,Laptop,28560.33,7.0,0.26,North,Cash,147942.51
+100802,2025-03-12,1026,Corporate,Furniture,T-Shirt,43446.86,3.0,0.03,East,Card,126430.36
+100803,2025-03-13,1176,Consumer,Furniture,Table,19080.56,9.0,0.02,South,UPI,168290.54
+100804,2025-03-14,1160,Corporate,Electronics,Jeans,18700.0,5.0,0.04,South,Cash,89760.0
+100805,2025-03-15,1097,Home Office,Clothing,T-Shirt,31002.65,9.0,0.02,South,Cash,273443.37
+100806,2025-03-16,1104,Consumer,Furniture,Chair,31727.02,7.0,0.25,North,Cash,166566.86
+100807,2025-03-17,1098,Consumer,Electronics,Mobile,23570.4,7.0,0.02,South,Cash,161692.94
+100808,2025-03-18,1128,Consumer,Electronics,T-Shirt,22264.36,6.0,0.08,East,Card,122899.27
+100809,2025-03-19,1148,Home Office,Clothing,Mobile,24808.55,2.0,0.03,North,UPI,48128.59
+100810,2025-03-20,1054,Corporate,Furniture,Table,43080.06,9.0,0.09,North,Cash,352825.69
+100811,2025-03-21,1005,Consumer,Furniture,T-Shirt,26609.405,6.0,0.03,North,Cash,134826.76
+100812,2025-03-22,1196,Home Office,Clothing,Laptop,47008.6,8.0,0.2,North,UPI,300855.04
+100813,2025-03-23,1094,Corporate,Clothing,Mobile,25299.39,1.0,0.04,East,Card,24287.41
+100814,2025-03-24,1132,Home Office,Electronics,Table,26609.405,5.0,0.26,South,Cash,175639.7
+100815,2025-03-25,1101,Corporate,Electronics,Laptop,41675.03,1.0,0.25,East,Card,31256.27
+100816,2025-03-26,1002,Home Office,Clothing,Laptop,18249.08,8.0,0.0,South,Card,145992.64
+100817,2025-03-27,1180,Corporate,Furniture,Laptop,43209.34,8.0,0.27,East,Card,252342.55
+100818,2025-03-28,1022,Consumer,Electronics,Laptop,5681.15,1.0,0.01,West,Card,5624.34
+100819,2025-03-29,1052,Corporate,Electronics,T-Shirt,46267.35,9.0,0.07,South,Cash,387257.72
+100820,2025-03-30,1164,Home Office,Furniture,Jeans,31655.85,2.0,0.01,West,Cash,62678.58
+100821,2025-03-31,1082,Home Office,Electronics,T-Shirt,2908.66,9.0,0.1,West,Card,23560.15
+100822,2025-04-01,1144,Corporate,Furniture,T-Shirt,32283.98,1.0,0.15,North,Card,27441.38
+100823,2025-04-02,1084,Consumer,Furniture,Table,48717.53,9.0,0.24,North,UPI,333227.91
+100824,2025-04-03,1077,Consumer,Furniture,Table,3676.07,4.0,0.1,East,UPI,13233.85
+100825,2025-04-04,1109,Corporate,Clothing,Jeans,27823.45,9.0,0.21,East,UPI,197824.73
+100826,2025-04-05,1000,Corporate,Clothing,Table,37440.16,7.0,0.06,South,Cash,246356.25
+100827,2025-04-06,1050,Home Office,Clothing,Chair,40550.88,6.0,0.23,South,UPI,187345.07
+100828,2025-04-07,1172,Consumer,Furniture,Jeans,20808.61,5.0,0.07,West,Cash,96760.04
+100829,2025-04-08,1003,Corporate,Furniture,Table,10367.49,9.0,0.04,East,Cash,89575.11
+100830,2025-04-09,1189,Consumer,Clothing,Jeans,2308.65,2.0,0.06,West,Cash,4340.26
+100831,2025-04-10,1192,Corporate,Electronics,T-Shirt,29070.36,2.0,0.05,East,Cash,55233.68
+100832,2025-04-11,1112,Corporate,Furniture,T-Shirt,22754.97,9.0,0.15,West,UPI,174075.52
+100833,2025-04-12,1031,Consumer,Electronics,Jeans,47447.47,3.0,0.25,South,Card,106756.81
+100834,2025-04-13,1033,Corporate,Electronics,Chair,3218.12,8.0,0.02,West,Card,25230.06
+100835,2025-04-14,1091,Corporate,Furniture,Chair,34332.69,9.0,0.21,South,Card,244105.43
+100836,2025-04-15,1094,Home Office,Furniture,Jeans,1443.32,8.0,0.2,South,UPI,9237.25
+100837,2025-04-16,1071,Corporate,Electronics,Table,8737.42,4.0,0.26,East,Card,25862.76
+100838,2025-04-17,1038,Corporate,Electronics,Mobile,22788.23,1.0,0.07,South,UPI,21193.05
+100839,2025-04-18,1153,Corporate,Clothing,Chair,22852.65,4.0,0.14,North,UPI,78613.12
+100840,2025-04-19,1161,Home Office,Clothing,Laptop,34347.89,9.0,0.28,North,UPI,222574.33
+100841,2025-04-20,1181,Consumer,Furniture,T-Shirt,26609.405,2.0,0.2,North,Card,72845.78
+100842,2025-04-21,1117,Home Office,Clothing,Jeans,32023.8,3.0,0.12,East,Card,84542.83
+100843,2025-04-22,1002,Home Office,Clothing,Laptop,47686.05,8.0,0.04,North,Card,366228.86
+100844,2025-04-23,1122,Consumer,Clothing,Jeans,44104.46,6.0,0.08,East,Cash,243456.62
+100845,2025-04-24,1049,Home Office,Clothing,T-Shirt,29308.09,8.0,0.17,East,UPI,194605.72
+100846,2025-04-25,1011,Consumer,Electronics,T-Shirt,41722.84,7.0,0.22,South,Cash,227806.71
+100847,2025-04-26,1192,Home Office,Furniture,Chair,32200.36,5.0,0.04,South,UPI,154561.73
+100848,2025-04-27,1053,Consumer,Clothing,Chair,4112.18,9.0,0.18,West,Card,30347.89
+100849,2025-04-28,1132,Corporate,Electronics,Laptop,37080.12,4.0,0.17,East,UPI,123106.0
+100850,2025-04-29,1056,Home Office,Electronics,Jeans,4926.44,6.0,0.15,North,UPI,25124.84
+100851,2025-04-30,1144,Home Office,Electronics,T-Shirt,29785.32,2.0,0.21,East,Cash,47060.81
+100852,2025-05-01,1111,Home Office,Clothing,Laptop,35191.48,2.0,0.25,South,UPI,52787.22
+100853,2025-05-02,1046,Home Office,Clothing,Mobile,3513.07,2.0,0.1,South,Card,6323.53
+100854,2025-05-03,1150,Corporate,Furniture,Laptop,11693.57,7.0,0.27,North,UPI,59754.14
+100855,2025-05-04,1084,Home Office,Clothing,Table,45800.48,5.0,0.05,East,UPI,87020.91
+100856,2025-05-05,1141,Corporate,Clothing,Laptop,30892.46,2.0,0.05,West,UPI,58695.67
+100857,2025-05-06,1065,Corporate,Electronics,Table,12465.04,9.0,0.08,West,Cash,103210.53
+100858,2025-05-07,1074,Corporate,Furniture,Table,34595.85,7.0,0.04,East,UPI,232484.11
+100859,2025-05-08,1178,Corporate,Clothing,Table,29919.47,3.0,0.07,East,UPI,83475.32
+100860,2025-05-09,1102,Consumer,Clothing,Mobile,25178.47,3.0,0.03,East,Cash,73269.35
+100861,2025-05-10,1165,Consumer,Electronics,Laptop,48814.11,7.0,0.25,North,Cash,256274.08
+100862,2025-05-11,1191,Home Office,Electronics,Laptop,34236.0,5.0,0.04,South,Cash,164332.8
+100863,2025-05-12,1037,Consumer,Clothing,Mobile,18896.97,6.0,0.22,West,Cash,88437.82
+100864,2025-05-13,1049,Consumer,Furniture,T-Shirt,40043.66,8.0,0.01,North,Card,317145.79
+100865,2025-05-14,1097,Home Office,Furniture,Chair,44252.25,9.0,0.28,East,Card,286754.58
+100866,2025-05-15,1081,Home Office,Electronics,Laptop,6435.98,1.0,0.21,East,UPI,5084.42
+100867,2025-05-16,1029,Home Office,Electronics,Chair,10187.54,3.0,0.0,South,Card,30562.62
+100868,2025-05-17,1078,Consumer,Clothing,Jeans,10968.11,7.0,0.23,East,UPI,59118.11
+100869,2025-05-18,1090,Consumer,Electronics,Jeans,34622.35,6.0,0.15,North,Card,176573.98
+100870,2025-05-19,1178,Home Office,Clothing,Mobile,30231.37,7.0,0.23,North,Cash,162947.08
+100871,2025-05-20,1190,Corporate,Furniture,Jeans,31025.78,8.0,0.16,South,Cash,208493.24
+100872,2025-05-21,1051,Home Office,Furniture,Jeans,47050.51,6.0,0.19,North,Card,228665.48
+100873,2025-05-22,1165,Corporate,Clothing,T-Shirt,38840.39,3.0,0.24,West,Card,88556.09
+100874,2025-05-23,1078,Corporate,Electronics,T-Shirt,6571.26,2.0,0.12,North,UPI,11565.42
+100875,2025-05-24,1029,Home Office,Furniture,T-Shirt,17505.85,7.0,0.0,North,UPI,122540.95
+100876,2025-05-25,1105,Home Office,Electronics,Jeans,21882.6,1.0,0.25,North,UPI,16411.95
+100877,2025-05-26,1050,Home Office,Furniture,Mobile,19918.89,3.0,0.11,West,Cash,53183.44
+100878,2025-05-27,1080,Consumer,Clothing,Table,33531.57,4.0,0.15,East,Cash,114007.34
+100879,2025-05-28,1132,Corporate,Clothing,Table,44616.28,1.0,0.0,North,Cash,44616.28
+100880,2025-05-29,1028,Consumer,Clothing,Chair,15441.36,5.0,0.15,South,Cash,65625.78
+100881,2025-05-30,1131,Consumer,Furniture,Table,27683.48,3.0,0.3,West,UPI,58135.31
+100882,2025-05-31,1137,Home Office,Electronics,Table,39512.59,2.0,0.08,South,Cash,72703.17
+100883,2025-06-01,1183,Consumer,Electronics,T-Shirt,20927.66,3.0,0.12,North,Cash,55249.02
+100884,2025-06-02,1144,Home Office,Electronics,T-Shirt,8572.28,8.0,0.21,South,Cash,54176.81
+100885,2025-06-03,1073,Corporate,Furniture,Jeans,23852.56,6.0,0.24,North,Cash,108767.67
+100886,2025-06-04,1016,Home Office,Furniture,Chair,2950.08,7.0,0.13,West,Card,17965.99
+100887,2025-06-05,1083,Consumer,Furniture,Laptop,47130.7,6.0,0.09,South,UPI,257333.62
+100888,2025-06-06,1068,Consumer,Furniture,Chair,3926.1,6.0,0.28,South,UPI,16960.75
+100889,2025-06-07,1033,Home Office,Furniture,Chair,22035.14,3.0,0.2,North,Cash,52884.34
+100890,2025-06-08,1005,Home Office,Electronics,Mobile,26588.09,8.0,0.04,North,Card,204196.53
+100891,2025-06-09,1052,Consumer,Furniture,Jeans,49268.13,7.0,0.02,East,UPI,337979.37
+100892,2025-06-10,1193,Corporate,Furniture,Mobile,8467.89,7.0,0.15,North,UPI,50383.95
+100893,2025-06-11,1125,Corporate,Electronics,Chair,5898.69,6.0,0.07,North,Cash,32914.69
+100894,2025-06-12,1042,Home Office,Furniture,Chair,633.57,5.0,0.08,East,Cash,2914.42
+100895,2025-06-13,1114,Corporate,Electronics,Chair,7947.46,8.0,0.26,North,UPI,47048.96
+100896,2025-06-14,1110,Consumer,Electronics,Table,10522.19,5.0,0.03,North,UPI,51032.62
+100897,2025-06-15,1150,Home Office,Clothing,Mobile,31602.93,9.0,0.21,East,Card,224696.83
+100898,2025-06-16,1182,Consumer,Clothing,Chair,26609.405,9.0,0.08,West,UPI,92250.79
+100899,2025-06-17,1079,Consumer,Clothing,T-Shirt,1221.94,1.0,0.23,West,UPI,940.89
+100900,2025-06-18,1094,Corporate,Clothing,Jeans,26609.405,6.0,0.22,North,Cash,193590.96
+100901,2025-06-19,1117,Home Office,Furniture,Jeans,26609.405,7.0,0.0,North,UPI,128846.69
+100902,2025-06-20,1143,Home Office,Clothing,T-Shirt,17814.09,3.0,0.15,East,Cash,45425.93
+100903,2025-06-21,1007,Corporate,Electronics,Jeans,15263.46,7.0,0.04,East,UPI,102570.45
+100904,2025-06-22,1131,Consumer,Furniture,Table,26609.405,7.0,0.26,West,UPI,252647.2
+100905,2025-06-23,1103,Consumer,Clothing,Table,8671.75,2.0,0.26,South,UPI,12834.19
+100906,2025-06-24,1131,Consumer,Electronics,Laptop,44932.26,7.0,0.13,North,Card,273637.46
+100907,2025-06-25,1183,Consumer,Furniture,Laptop,38884.81,1.0,0.13,South,Cash,33829.78
+100908,2025-06-26,1024,Home Office,Furniture,Laptop,4008.7,5.0,0.09,South,Card,18239.58
+100909,2025-06-27,1194,Home Office,Clothing,Jeans,49339.11,9.0,0.21,East,UPI,350801.07
+100910,2025-06-28,1095,Corporate,Furniture,Table,13714.02,7.0,0.11,North,Card,85438.34
+100911,2025-06-29,1194,Corporate,Electronics,Table,26609.405,7.0,0.08,North,Cash,32904.73
+100912,2025-06-30,1154,Home Office,Furniture,Table,41499.85,2.0,0.13,East,UPI,72209.74
+100913,2025-07-01,1092,Home Office,Electronics,T-Shirt,35392.44,8.0,0.03,South,Card,274645.33
+100914,2025-07-02,1159,Consumer,Furniture,Table,30937.5,3.0,0.22,East,Card,72393.75
+100915,2025-07-03,1177,Consumer,Clothing,T-Shirt,7967.85,8.0,0.0,West,Cash,63742.8
+100916,2025-07-04,1060,Corporate,Electronics,Laptop,24029.11,3.0,0.19,North,Card,58390.74
+100917,2025-07-05,1121,Home Office,Furniture,Laptop,39071.69,7.0,0.05,West,Cash,259826.74
+100918,2025-07-06,1050,Corporate,Furniture,Jeans,15320.47,2.0,0.07,East,UPI,28496.07
+100919,2025-07-07,1146,Home Office,Furniture,Laptop,15722.15,4.0,0.19,North,UPI,50939.77
+100920,2025-07-08,1020,Consumer,Electronics,Jeans,356.42,6.0,0.3,West,Card,1496.96
+100921,2025-07-09,1004,Corporate,Electronics,Chair,8877.32,9.0,0.23,West,UPI,61519.83
+100922,2025-07-10,1091,Corporate,Electronics,Chair,43795.2,5.0,0.07,South,UPI,203647.68
+100923,2025-07-11,1169,Home Office,Clothing,Mobile,22198.98,9.0,0.05,North,Card,189801.28
+100924,2025-07-12,1060,Consumer,Clothing,Jeans,49214.88,5.0,0.26,West,UPI,182095.06
+100925,2025-07-13,1021,Corporate,Electronics,Mobile,19906.26,8.0,0.13,West,Card,138547.57
+100926,2025-07-14,1148,Consumer,Furniture,Mobile,35816.29,1.0,0.04,South,Cash,34383.64
+100927,2025-07-15,1069,Corporate,Clothing,Chair,14239.57,7.0,0.26,West,Cash,73760.97
+100928,2025-07-16,1000,Consumer,Electronics,Jeans,18317.72,4.0,0.24,West,Cash,55685.87
+100929,2025-07-17,1132,Home Office,Furniture,Chair,9698.15,5.0,0.3,West,Card,33943.52
+100930,2025-07-18,1011,Corporate,Clothing,Mobile,17483.71,6.0,0.27,South,Card,76578.65
+100931,2025-07-19,1089,Corporate,Furniture,Jeans,27452.43,5.0,0.26,West,UPI,101573.99
+100932,2025-07-20,1045,Consumer,Furniture,Mobile,49590.29,1.0,0.02,West,UPI,48598.48
+100933,2025-07-21,1033,Consumer,Furniture,Table,33277.25,9.0,0.03,North,UPI,290510.39
+100934,2025-07-22,1176,Corporate,Furniture,Jeans,10122.45,2.0,0.17,North,UPI,16803.27
+100935,2025-07-23,1077,Home Office,Clothing,Jeans,2439.08,9.0,0.16,South,UPI,18439.44
+100936,2025-07-24,1044,Consumer,Clothing,Mobile,6492.55,2.0,0.14,East,Card,11167.19
+100937,2025-07-25,1154,Consumer,Clothing,Table,28215.25,9.0,0.12,North,Card,223464.78
+100938,2025-07-26,1072,Consumer,Electronics,T-Shirt,38304.98,6.0,0.13,South,Cash,199952.0
+100939,2025-07-27,1025,Corporate,Clothing,Chair,47032.88,9.0,0.17,West,Cash,351335.61
+100940,2025-07-28,1046,Corporate,Furniture,Mobile,987.99,6.0,0.0,West,Cash,5927.94
+100941,2025-07-29,1120,Corporate,Clothing,Jeans,26233.46,6.0,0.08,South,Cash,144808.7
+100942,2025-07-30,1055,Corporate,Furniture,Chair,23649.19,2.0,0.16,West,Card,39730.64
+100943,2025-07-31,1093,Home Office,Electronics,Chair,32871.54,8.0,0.22,West,Card,205118.41
+100944,2025-08-01,1106,Home Office,Furniture,Chair,28067.03,3.0,0.05,East,Card,79991.04
+100945,2025-08-02,1062,Corporate,Furniture,T-Shirt,34414.55,7.0,0.16,West,UPI,202357.55
+100946,2025-08-03,1047,Home Office,Furniture,Laptop,32972.51,5.0,0.21,North,UPI,130241.41
+100947,2025-08-04,1060,Consumer,Electronics,Mobile,6027.18,3.0,0.13,West,Cash,15730.94
+100948,2025-08-05,1080,Consumer,Clothing,Laptop,40025.95,1.0,0.01,South,UPI,39625.69
+100949,2025-08-06,1025,Consumer,Clothing,Laptop,6336.98,8.0,0.13,East,Card,44105.38
+100950,2025-08-07,1035,Corporate,Electronics,Laptop,34986.83,3.0,0.09,West,Cash,95514.05
+100951,2025-08-08,1000,Consumer,Furniture,Chair,20924.04,2.0,0.28,South,Cash,30130.62
+100952,2025-08-09,1007,Home Office,Clothing,Table,25789.77,1.0,0.04,North,UPI,24758.18
+100953,2025-08-10,1112,Corporate,Electronics,Chair,45184.24,4.0,0.2,West,Cash,144589.57
+100954,2025-08-11,1098,Home Office,Clothing,Chair,44516.21,8.0,0.02,East,UPI,349007.09
+100955,2025-08-12,1179,Consumer,Electronics,Jeans,40929.24,3.0,0.13,West,UPI,106825.32
+100956,2025-08-13,1046,Consumer,Furniture,Jeans,25605.39,1.0,0.17,South,Cash,21252.47
+100957,2025-08-14,1126,Consumer,Clothing,Laptop,36864.74,4.0,0.09,East,UPI,134187.65
+100958,2025-08-15,1055,Corporate,Electronics,Chair,25742.27,9.0,0.14,West,UPI,199245.17
+100959,2025-08-16,1013,Home Office,Clothing,Laptop,43506.38,1.0,0.05,North,UPI,41331.06
+100960,2025-08-17,1027,Corporate,Clothing,Jeans,20258.24,2.0,0.09,East,UPI,36870.0
+100961,2025-08-18,1077,Corporate,Clothing,Table,48517.72,9.0,0.19,North,Cash,353694.18
+100962,2025-08-19,1129,Consumer,Clothing,Mobile,46629.67,2.0,0.09,South,Card,84866.0
+100963,2025-08-20,1108,Corporate,Electronics,Laptop,37131.81,3.0,0.27,West,Card,81318.66
+100964,2025-08-21,1153,Corporate,Furniture,Table,14114.91,7.0,0.19,North,UPI,80031.54
+100965,2025-08-22,1013,Consumer,Electronics,Mobile,6756.35,3.0,0.13,South,UPI,17634.07
+100966,2025-08-23,1186,Corporate,Electronics,T-Shirt,42764.23,9.0,0.01,West,UPI,381029.29
+100967,2025-08-24,1055,Consumer,Electronics,Laptop,8432.05,6.0,0.15,South,Card,43003.45
+100968,2025-08-25,1114,Consumer,Furniture,Laptop,42742.19,3.0,0.23,North,UPI,98734.46
+100969,2025-08-26,1006,Consumer,Clothing,T-Shirt,24640.1,9.0,0.08,South,Cash,204020.03
+100970,2025-08-27,1002,Consumer,Clothing,T-Shirt,20446.53,1.0,0.24,East,Cash,15539.36
+100971,2025-08-28,1110,Corporate,Clothing,Laptop,45178.9,5.0,0.08,West,Cash,124693.76
+100972,2025-08-29,1150,Consumer,Furniture,T-Shirt,30271.78,1.0,0.25,South,Card,22703.84
+100973,2025-08-30,1106,Consumer,Clothing,Chair,28915.38,2.0,0.03,North,UPI,56095.84
+100974,2025-08-31,1017,Corporate,Furniture,Mobile,28026.54,8.0,0.26,West,UPI,165917.12
+100975,2025-09-01,1037,Corporate,Clothing,Mobile,18684.24,7.0,0.15,East,UPI,111171.23
+100976,2025-09-02,1114,Home Office,Clothing,Mobile,39325.03,2.0,0.09,West,Card,71571.55
+100977,2025-09-03,1014,Corporate,Electronics,Chair,12789.36,2.0,0.08,East,Card,23532.42
+100978,2025-09-04,1191,Corporate,Furniture,T-Shirt,46956.97,9.0,0.13,West,Card,367673.08
+100979,2025-09-05,1118,Home Office,Electronics,Table,44720.46,6.0,0.3,South,Card,187825.93
+100980,2025-09-06,1027,Corporate,Electronics,T-Shirt,17006.52,5.0,0.07,South,Cash,79080.32
+100981,2025-09-07,1038,Corporate,Electronics,Laptop,36527.3,6.0,0.03,North,Card,212588.89
+100982,2025-09-08,1184,Corporate,Furniture,Jeans,26609.405,9.0,0.18,East,Card,212149.32
+100983,2025-09-09,1016,Corporate,Furniture,Mobile,17014.94,7.0,0.15,North,Card,101238.89
+100984,2025-09-10,1085,Home Office,Clothing,T-Shirt,49428.38,9.0,0.16,South,UPI,373678.55
+100985,2025-09-11,1125,Corporate,Electronics,Table,26609.405,4.0,0.2,South,UPI,4661.82
+100986,2025-09-12,1043,Corporate,Clothing,Laptop,12781.77,2.0,0.08,North,UPI,23518.46
+100987,2025-09-13,1024,Home Office,Electronics,Chair,26099.69,8.0,0.27,North,Cash,152422.19
+100988,2025-09-14,1144,Consumer,Furniture,Chair,26193.26,4.0,0.13,North,Cash,91152.54
+100989,2025-09-15,1012,Home Office,Furniture,Table,29528.87,9.0,0.04,North,Card,255129.44
+100990,2025-09-16,1024,Consumer,Furniture,Laptop,37633.47,4.0,0.22,North,UPI,117416.43
+100991,2025-09-17,1067,Home Office,Electronics,Mobile,31249.2,8.0,0.19,East,Cash,202494.82
+100992,2025-09-18,1137,Home Office,Furniture,T-Shirt,30094.02,9.0,0.09,North,UPI,246470.02
+100993,2025-09-19,1066,Corporate,Electronics,Laptop,2865.02,9.0,0.19,South,Cash,20886.0
+100994,2025-09-20,1108,Consumer,Clothing,Chair,18951.21,4.0,0.07,North,Cash,70498.5
+100995,2025-09-21,1145,Corporate,Electronics,Table,26609.405,1.0,0.13,South,Card,10228.05
+100996,2025-09-22,1110,Consumer,Clothing,Table,13415.43,3.0,0.27,South,Card,29379.79
+100997,2025-09-23,1110,Home Office,Electronics,T-Shirt,27806.01,9.0,0.04,North,Cash,240243.93
+100998,2025-09-24,1033,Home Office,Clothing,Table,10135.36,4.0,0.12,West,Card,35676.47
+100999,2025-09-25,1110,Consumer,Furniture,Table,14838.67,5.0,0.25,South,Cash,55645.01
+101000,2025-09-26,1007,Corporate,Clothing,Laptop,12006.82,7.0,0.29,East,Cash,59673.9
